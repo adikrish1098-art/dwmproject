@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  hospital-platform:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hospital-data-warehouse:latest
+    container_name: hospital-platform
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - SECRET_KEY=college-demo-super-secret-key-change-in-production-2026
+    volumes:
+      - hospital_data:/app/data
+    restart: unless-stopped
+
+volumes:
+  hospital_data:

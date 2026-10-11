@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: hospital-data-warehouse
+    env: docker
+    plan: free
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: SECRET_KEY
+        generateValue: true

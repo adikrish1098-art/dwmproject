@@ -61,15 +61,6 @@ app.include_router(audit_router, prefix=v1_str)
 app.include_router(reports_router, prefix=v1_str)
 app.include_router(datasets_router, prefix=v1_str)
 
-@app.get("/")
-def root():
-    return {
-        "project": settings.PROJECT_NAME,
-        "version": settings.PROJECT_VERSION,
-        "documentation": "/docs",
-        "health": f"{settings.API_V1_STR}/health"
-    }
-
 @app.get(f"{settings.API_V1_STR}/health")
 def health_check():
     return {
@@ -77,6 +68,43 @@ def health_check():
         "service": settings.PROJECT_NAME,
         "version": settings.PROJECT_VERSION
     }
+
+# Production Static File & SPA Fallback Serving
+frontend_dist = os.path.join(settings.BASE_DIR, "frontend", "dist")
+if not os.path.exists(frontend_dist):
+    # Also check relative to backend directory for Docker containers
+    alt_dist = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend", "dist")
+    if os.path.exists(alt_dist):
+        frontend_dist = alt_dist
+
+if os.path.exists(frontend_dist):
+    from fastapi.staticfiles import StaticFiles
+    from fastapi.responses import FileResponse
+    from fastapi import HTTPException
+    
+    assets_dir = os.path.join(frontend_dist, "assets")
+    if os.path.exists(assets_dir):
+        app.mount("/assets", StaticFiles(directory=assets_dir), name="assets")
+
+    @app.get("/{full_path:path}")
+    async def serve_spa(full_path: str):
+        # Do not catch API endpoints or documentation
+        if full_path.startswith("api/") or full_path.startswith("docs") or full_path.startswith("openapi.json"):
+            raise HTTPException(status_code=404, detail="Not Found")
+        file_path = os.path.join(frontend_dist, full_path)
+        if full_path and os.path.isfile(file_path):
+            return FileResponse(file_path)
+        return FileResponse(os.path.join(frontend_dist, "index.html"))
+else:
+    @app.get("/")
+    def root():
+        return {
+            "project": settings.PROJECT_NAME,
+            "version": settings.PROJECT_VERSION,
+            "documentation": "/docs",
+            "health": f"{settings.API_V1_STR}/health",
+            "mode": "development (run frontend with npm run dev on port 5173)"
+        }
 
 if __name__ == "__main__":
     import uvicorn
