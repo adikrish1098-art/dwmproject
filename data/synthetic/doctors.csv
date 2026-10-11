@@ -1,0 +1,17 @@
+id,name,specialty,department_id,contact_number,email,is_available,is_active
+DOC-101,Dr. Robert Chen,Interventional Cardiology,DEP-CAR,+1-555-01101,robert.chen@hospital.org,True,True
+DOC-102,Dr. Sarah Jenkins,Electrophysiology,DEP-CAR,+1-555-01102,sarah.jenkins@hospital.org,True,True
+DOC-103,Dr. Marcus Vance,Pulmonary Critical Care,DEP-PUL,+1-555-01103,marcus.vance@hospital.org,True,True
+DOC-104,Dr. Elena Rostova,Interstitial Lung Disease,DEP-PUL,+1-555-01104,elena.rostova@hospital.org,True,True
+DOC-105,Dr. David Kim,Stroke & Cerebrovascular,DEP-NEU,+1-555-01105,david.kim@hospital.org,True,True
+DOC-106,Dr. Amina Al-Mansoor,Neuro-oncology,DEP-NEU,+1-555-01106,amina.al-mansoor@hospital.org,True,True
+DOC-107,Dr. James Wilson,Joint Replacement,DEP-ORT,+1-555-01107,james.wilson@hospital.org,True,True
+DOC-108,Dr. Lisa Patel,Trauma & Spine Surgery,DEP-ORT,+1-555-01108,lisa.patel@hospital.org,True,True
+DOC-109,Dr. Thomas Bradley,Hepatology & Cirrhosis,DEP-GAS,+1-555-01109,thomas.bradley@hospital.org,True,True
+DOC-110,Dr. Maria Garcia,Advanced Endoscopy,DEP-GAS,+1-555-01110,maria.garcia@hospital.org,True,True
+DOC-111,Dr. William Thorne,Medical Oncology,DEP-ONC,+1-555-01111,william.thorne@hospital.org,True,True
+DOC-112,Dr. Rachel Green,Hematologic Malignancies,DEP-ONC,+1-555-01112,rachel.green@hospital.org,True,True
+DOC-113,Dr. Sanjay Gupta,Diabetic Endocrinology,DEP-END,+1-555-01113,sanjay.gupta@hospital.org,True,True
+DOC-114,Dr. Claire Beauchamp,Metabolic Disorders,DEP-END,+1-555-01114,claire.beauchamp@hospital.org,True,True
+DOC-115,Dr. Benjamin Hayes,Inpatient Internal Medicine,DEP-GEN,+1-555-01115,benjamin.hayes@hospital.org,True,True
+DOC-116,Dr. Fiona Gallagher,Acute Diagnostic Medicine,DEP-GEN,+1-555-01116,fiona.gallagher@hospital.org,True,True

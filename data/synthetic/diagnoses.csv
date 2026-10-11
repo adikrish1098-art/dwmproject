@@ -1,0 +1,1636 @@
+id,encounter_id,patient_id,diagnosis_code,diagnosis_category,description,is_primary
+1,ENC-9001,PAT-1001,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+2,ENC-9001,PAT-1001,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+3,ENC-9002,PAT-1002,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+4,ENC-9003,PAT-1002,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+5,ENC-9003,PAT-1002,M54.5,Low Back Pain,Low back pain,False
+6,ENC-9004,PAT-1002,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+7,ENC-9004,PAT-1002,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+8,ENC-9005,PAT-1003,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+9,ENC-9005,PAT-1003,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+10,ENC-9006,PAT-1004,S72.001A,Femur Fracture,Fracture of head of right femur,True
+11,ENC-9006,PAT-1004,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+12,ENC-9007,PAT-1006,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+13,ENC-9007,PAT-1006,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+14,ENC-9008,PAT-1006,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+15,ENC-9009,PAT-1007,G20,Parkinson's Disease,Parkinson's disease,True
+16,ENC-9010,PAT-1008,G20,Parkinson's Disease,Parkinson's disease,True
+17,ENC-9010,PAT-1008,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+18,ENC-9011,PAT-1009,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+19,ENC-9012,PAT-1009,G20,Parkinson's Disease,Parkinson's disease,True
+20,ENC-9012,PAT-1009,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+21,ENC-9013,PAT-1010,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+22,ENC-9014,PAT-1011,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+23,ENC-9014,PAT-1011,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+24,ENC-9015,PAT-1011,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+25,ENC-9015,PAT-1011,I10,Hypertension,Essential (primary) hypertension,False
+26,ENC-9016,PAT-1012,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+27,ENC-9016,PAT-1012,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+28,ENC-9017,PAT-1013,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+29,ENC-9017,PAT-1013,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+30,ENC-9018,PAT-1013,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+31,ENC-9019,PAT-1013,G20,Parkinson's Disease,Parkinson's disease,True
+32,ENC-9019,PAT-1013,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+33,ENC-9020,PAT-1014,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+34,ENC-9020,PAT-1014,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+35,ENC-9021,PAT-1015,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+36,ENC-9021,PAT-1015,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+37,ENC-9022,PAT-1016,R53.83,Fatigue & Malaise,Other fatigue,True
+38,ENC-9023,PAT-1017,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+39,ENC-9024,PAT-1017,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+40,ENC-9024,PAT-1017,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+41,ENC-9025,PAT-1018,E86.0,Dehydration,Dehydration,True
+42,ENC-9026,PAT-1018,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+43,ENC-9026,PAT-1018,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+44,ENC-9027,PAT-1019,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+45,ENC-9027,PAT-1019,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+46,ENC-9028,PAT-1020,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+47,ENC-9029,PAT-1020,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+48,ENC-9030,PAT-1021,G20,Parkinson's Disease,Parkinson's disease,True
+49,ENC-9030,PAT-1021,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+50,ENC-9031,PAT-1021,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+51,ENC-9031,PAT-1021,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+52,ENC-9032,PAT-1023,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+53,ENC-9032,PAT-1023,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+54,ENC-9033,PAT-1023,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+55,ENC-9033,PAT-1023,I10,Hypertension,Essential (primary) hypertension,False
+56,ENC-9034,PAT-1024,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+57,ENC-9034,PAT-1024,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+58,ENC-9035,PAT-1025,M54.5,Low Back Pain,Low back pain,True
+59,ENC-9036,PAT-1026,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+60,ENC-9037,PAT-1028,A41.9,Sepsis,"Sepsis, unspecified organism",True
+61,ENC-9038,PAT-1029,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+62,ENC-9039,PAT-1029,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+63,ENC-9039,PAT-1029,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+64,ENC-9040,PAT-1030,I10,Hypertension,Essential (primary) hypertension,True
+65,ENC-9041,PAT-1031,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+66,ENC-9042,PAT-1032,G20,Parkinson's Disease,Parkinson's disease,True
+67,ENC-9042,PAT-1032,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+68,ENC-9043,PAT-1033,I10,Hypertension,Essential (primary) hypertension,True
+69,ENC-9043,PAT-1033,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+70,ENC-9044,PAT-1034,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+71,ENC-9044,PAT-1034,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+72,ENC-9045,PAT-1034,I10,Hypertension,Essential (primary) hypertension,True
+73,ENC-9045,PAT-1034,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+74,ENC-9046,PAT-1035,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+75,ENC-9046,PAT-1035,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+76,ENC-9047,PAT-1036,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+77,ENC-9047,PAT-1036,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+78,ENC-9048,PAT-1037,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+79,ENC-9048,PAT-1037,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+80,ENC-9049,PAT-1037,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+81,ENC-9050,PAT-1037,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+82,ENC-9051,PAT-1038,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+83,ENC-9052,PAT-1039,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+84,ENC-9052,PAT-1039,I10,Hypertension,Essential (primary) hypertension,False
+85,ENC-9053,PAT-1039,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+86,ENC-9054,PAT-1040,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+87,ENC-9054,PAT-1040,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+88,ENC-9055,PAT-1041,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+89,ENC-9055,PAT-1041,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+90,ENC-9056,PAT-1041,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+91,ENC-9056,PAT-1041,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+92,ENC-9057,PAT-1042,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+93,ENC-9058,PAT-1043,M54.5,Low Back Pain,Low back pain,True
+94,ENC-9059,PAT-1043,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+95,ENC-9060,PAT-1044,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+96,ENC-9061,PAT-1044,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+97,ENC-9061,PAT-1044,E86.0,Dehydration,Dehydration,False
+98,ENC-9062,PAT-1044,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+99,ENC-9063,PAT-1045,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+100,ENC-9063,PAT-1045,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+101,ENC-9064,PAT-1046,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+102,ENC-9065,PAT-1047,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+103,ENC-9066,PAT-1048,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+104,ENC-9066,PAT-1048,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+105,ENC-9067,PAT-1049,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+106,ENC-9068,PAT-1050,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+107,ENC-9069,PAT-1050,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+108,ENC-9069,PAT-1050,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+109,ENC-9070,PAT-1051,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+110,ENC-9071,PAT-1052,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+111,ENC-9071,PAT-1052,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+112,ENC-9072,PAT-1053,M54.5,Low Back Pain,Low back pain,True
+113,ENC-9072,PAT-1053,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",False
+114,ENC-9073,PAT-1053,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+115,ENC-9074,PAT-1053,R53.83,Fatigue & Malaise,Other fatigue,True
+116,ENC-9074,PAT-1053,E86.0,Dehydration,Dehydration,False
+117,ENC-9075,PAT-1054,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+118,ENC-9075,PAT-1054,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+119,ENC-9076,PAT-1055,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+120,ENC-9077,PAT-1056,E86.0,Dehydration,Dehydration,True
+121,ENC-9077,PAT-1056,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+122,ENC-9078,PAT-1057,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+123,ENC-9078,PAT-1057,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+124,ENC-9079,PAT-1057,A41.9,Sepsis,"Sepsis, unspecified organism",True
+125,ENC-9079,PAT-1057,R53.83,Fatigue & Malaise,Other fatigue,False
+126,ENC-9080,PAT-1058,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+127,ENC-9080,PAT-1058,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+128,ENC-9081,PAT-1058,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+129,ENC-9081,PAT-1058,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+130,ENC-9082,PAT-1059,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+131,ENC-9082,PAT-1059,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+132,ENC-9083,PAT-1059,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+133,ENC-9083,PAT-1059,A41.9,Sepsis,"Sepsis, unspecified organism",False
+134,ENC-9084,PAT-1060,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+135,ENC-9084,PAT-1060,G20,Parkinson's Disease,Parkinson's disease,False
+136,ENC-9085,PAT-1060,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+137,ENC-9085,PAT-1060,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+138,ENC-9086,PAT-1061,E86.0,Dehydration,Dehydration,True
+139,ENC-9087,PAT-1062,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+140,ENC-9087,PAT-1062,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+141,ENC-9088,PAT-1063,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+142,ENC-9088,PAT-1063,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+143,ENC-9089,PAT-1063,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+144,ENC-9090,PAT-1063,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+145,ENC-9090,PAT-1063,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+146,ENC-9091,PAT-1064,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+147,ENC-9092,PAT-1064,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+148,ENC-9092,PAT-1064,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+149,ENC-9093,PAT-1064,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+150,ENC-9093,PAT-1064,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+151,ENC-9094,PAT-1065,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+152,ENC-9095,PAT-1065,G20,Parkinson's Disease,Parkinson's disease,True
+153,ENC-9095,PAT-1065,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+154,ENC-9096,PAT-1066,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+155,ENC-9097,PAT-1067,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+156,ENC-9098,PAT-1067,S72.001A,Femur Fracture,Fracture of head of right femur,True
+157,ENC-9099,PAT-1068,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+158,ENC-9099,PAT-1068,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+159,ENC-9100,PAT-1068,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+160,ENC-9100,PAT-1068,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+161,ENC-9101,PAT-1069,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+162,ENC-9102,PAT-1070,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+163,ENC-9103,PAT-1070,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+164,ENC-9104,PAT-1071,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+165,ENC-9104,PAT-1071,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+166,ENC-9105,PAT-1072,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+167,ENC-9105,PAT-1072,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+168,ENC-9106,PAT-1072,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+169,ENC-9106,PAT-1072,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+170,ENC-9107,PAT-1073,M54.5,Low Back Pain,Low back pain,True
+171,ENC-9107,PAT-1073,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",False
+172,ENC-9108,PAT-1073,M54.5,Low Back Pain,Low back pain,True
+173,ENC-9108,PAT-1073,S72.001A,Femur Fracture,Fracture of head of right femur,False
+174,ENC-9109,PAT-1073,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+175,ENC-9110,PAT-1074,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+176,ENC-9111,PAT-1074,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+177,ENC-9112,PAT-1074,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+178,ENC-9112,PAT-1074,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+179,ENC-9113,PAT-1075,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+180,ENC-9114,PAT-1076,R53.83,Fatigue & Malaise,Other fatigue,True
+181,ENC-9115,PAT-1077,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+182,ENC-9115,PAT-1077,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+183,ENC-9116,PAT-1077,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+184,ENC-9116,PAT-1077,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+185,ENC-9117,PAT-1078,I10,Hypertension,Essential (primary) hypertension,True
+186,ENC-9117,PAT-1078,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+187,ENC-9118,PAT-1078,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+188,ENC-9119,PAT-1078,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+189,ENC-9119,PAT-1078,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+190,ENC-9120,PAT-1078,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+191,ENC-9121,PAT-1079,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+192,ENC-9121,PAT-1079,S72.001A,Femur Fracture,Fracture of head of right femur,False
+193,ENC-9122,PAT-1079,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+194,ENC-9122,PAT-1079,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+195,ENC-9123,PAT-1080,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+196,ENC-9124,PAT-1080,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+197,ENC-9125,PAT-1080,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+198,ENC-9126,PAT-1081,S72.001A,Femur Fracture,Fracture of head of right femur,True
+199,ENC-9126,PAT-1081,M54.5,Low Back Pain,Low back pain,False
+200,ENC-9127,PAT-1082,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+201,ENC-9127,PAT-1082,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+202,ENC-9128,PAT-1083,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+203,ENC-9128,PAT-1083,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+204,ENC-9129,PAT-1084,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+205,ENC-9129,PAT-1084,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+206,ENC-9130,PAT-1085,G20,Parkinson's Disease,Parkinson's disease,True
+207,ENC-9131,PAT-1087,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+208,ENC-9131,PAT-1087,G20,Parkinson's Disease,Parkinson's disease,False
+209,ENC-9132,PAT-1088,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+210,ENC-9132,PAT-1088,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+211,ENC-9133,PAT-1088,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+212,ENC-9133,PAT-1088,A41.9,Sepsis,"Sepsis, unspecified organism",False
+213,ENC-9134,PAT-1089,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+214,ENC-9134,PAT-1089,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+215,ENC-9135,PAT-1089,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+216,ENC-9135,PAT-1089,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+217,ENC-9136,PAT-1090,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+218,ENC-9136,PAT-1090,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+219,ENC-9137,PAT-1091,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+220,ENC-9137,PAT-1091,A41.9,Sepsis,"Sepsis, unspecified organism",False
+221,ENC-9138,PAT-1091,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+222,ENC-9139,PAT-1092,I10,Hypertension,Essential (primary) hypertension,True
+223,ENC-9139,PAT-1092,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+224,ENC-9140,PAT-1092,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+225,ENC-9141,PAT-1092,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+226,ENC-9142,PAT-1093,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+227,ENC-9143,PAT-1093,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+228,ENC-9143,PAT-1093,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+229,ENC-9144,PAT-1094,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+230,ENC-9145,PAT-1095,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+231,ENC-9145,PAT-1095,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+232,ENC-9146,PAT-1096,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+233,ENC-9147,PAT-1096,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+234,ENC-9148,PAT-1097,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+235,ENC-9148,PAT-1097,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+236,ENC-9149,PAT-1098,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+237,ENC-9149,PAT-1098,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+238,ENC-9150,PAT-1099,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+239,ENC-9150,PAT-1099,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+240,ENC-9151,PAT-1099,S72.001A,Femur Fracture,Fracture of head of right femur,True
+241,ENC-9152,PAT-1100,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+242,ENC-9153,PAT-1100,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+243,ENC-9153,PAT-1100,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+244,ENC-9154,PAT-1101,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+245,ENC-9154,PAT-1101,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+246,ENC-9155,PAT-1101,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+247,ENC-9155,PAT-1101,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+248,ENC-9156,PAT-1102,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+249,ENC-9156,PAT-1102,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+250,ENC-9157,PAT-1102,S72.001A,Femur Fracture,Fracture of head of right femur,True
+251,ENC-9158,PAT-1102,I10,Hypertension,Essential (primary) hypertension,True
+252,ENC-9159,PAT-1103,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+253,ENC-9159,PAT-1103,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+254,ENC-9160,PAT-1103,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+255,ENC-9161,PAT-1104,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+256,ENC-9162,PAT-1105,E86.0,Dehydration,Dehydration,True
+257,ENC-9162,PAT-1105,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+258,ENC-9163,PAT-1105,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+259,ENC-9163,PAT-1105,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+260,ENC-9164,PAT-1105,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+261,ENC-9164,PAT-1105,K50.90,Crohn's Disease,"Crohn's disease, unspecified",False
+262,ENC-9165,PAT-1106,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+263,ENC-9165,PAT-1106,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+264,ENC-9166,PAT-1107,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+265,ENC-9166,PAT-1107,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+266,ENC-9167,PAT-1107,E86.0,Dehydration,Dehydration,True
+267,ENC-9167,PAT-1107,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+268,ENC-9168,PAT-1108,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+269,ENC-9168,PAT-1108,K50.90,Crohn's Disease,"Crohn's disease, unspecified",False
+270,ENC-9169,PAT-1108,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+271,ENC-9170,PAT-1108,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+272,ENC-9171,PAT-1109,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+273,ENC-9172,PAT-1109,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+274,ENC-9172,PAT-1109,A41.9,Sepsis,"Sepsis, unspecified organism",False
+275,ENC-9173,PAT-1110,A41.9,Sepsis,"Sepsis, unspecified organism",True
+276,ENC-9173,PAT-1110,E86.0,Dehydration,Dehydration,False
+277,ENC-9174,PAT-1110,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+278,ENC-9174,PAT-1110,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+279,ENC-9175,PAT-1111,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+280,ENC-9175,PAT-1111,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+281,ENC-9176,PAT-1112,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+282,ENC-9176,PAT-1112,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+283,ENC-9177,PAT-1112,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+284,ENC-9178,PAT-1112,E86.0,Dehydration,Dehydration,True
+285,ENC-9178,PAT-1112,A41.9,Sepsis,"Sepsis, unspecified organism",False
+286,ENC-9179,PAT-1112,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+287,ENC-9180,PAT-1113,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+288,ENC-9180,PAT-1113,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+289,ENC-9181,PAT-1113,E86.0,Dehydration,Dehydration,True
+290,ENC-9181,PAT-1113,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+291,ENC-9182,PAT-1114,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+292,ENC-9182,PAT-1114,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+293,ENC-9183,PAT-1114,I10,Hypertension,Essential (primary) hypertension,True
+294,ENC-9184,PAT-1115,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+295,ENC-9184,PAT-1115,A41.9,Sepsis,"Sepsis, unspecified organism",False
+296,ENC-9185,PAT-1115,A41.9,Sepsis,"Sepsis, unspecified organism",True
+297,ENC-9185,PAT-1115,R53.83,Fatigue & Malaise,Other fatigue,False
+298,ENC-9186,PAT-1116,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+299,ENC-9187,PAT-1116,I10,Hypertension,Essential (primary) hypertension,True
+300,ENC-9187,PAT-1116,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+301,ENC-9188,PAT-1117,A41.9,Sepsis,"Sepsis, unspecified organism",True
+302,ENC-9189,PAT-1117,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+303,ENC-9189,PAT-1117,M54.5,Low Back Pain,Low back pain,False
+304,ENC-9190,PAT-1118,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+305,ENC-9190,PAT-1118,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+306,ENC-9191,PAT-1118,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+307,ENC-9191,PAT-1118,M54.5,Low Back Pain,Low back pain,False
+308,ENC-9192,PAT-1118,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+309,ENC-9193,PAT-1118,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+310,ENC-9193,PAT-1118,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+311,ENC-9194,PAT-1119,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+312,ENC-9194,PAT-1119,M54.5,Low Back Pain,Low back pain,False
+313,ENC-9195,PAT-1120,A41.9,Sepsis,"Sepsis, unspecified organism",True
+314,ENC-9195,PAT-1120,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+315,ENC-9196,PAT-1120,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+316,ENC-9196,PAT-1120,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+317,ENC-9197,PAT-1121,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+318,ENC-9197,PAT-1121,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+319,ENC-9198,PAT-1122,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+320,ENC-9198,PAT-1122,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+321,ENC-9199,PAT-1123,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+322,ENC-9199,PAT-1123,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+323,ENC-9200,PAT-1123,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+324,ENC-9200,PAT-1123,A41.9,Sepsis,"Sepsis, unspecified organism",False
+325,ENC-9201,PAT-1123,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+326,ENC-9201,PAT-1123,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+327,ENC-9202,PAT-1123,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+328,ENC-9203,PAT-1124,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+329,ENC-9203,PAT-1124,G20,Parkinson's Disease,Parkinson's disease,False
+330,ENC-9204,PAT-1124,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+331,ENC-9204,PAT-1124,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+332,ENC-9205,PAT-1125,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+333,ENC-9205,PAT-1125,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+334,ENC-9206,PAT-1125,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+335,ENC-9206,PAT-1125,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+336,ENC-9207,PAT-1125,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+337,ENC-9207,PAT-1125,S72.001A,Femur Fracture,Fracture of head of right femur,False
+338,ENC-9208,PAT-1126,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+339,ENC-9208,PAT-1126,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+340,ENC-9209,PAT-1126,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+341,ENC-9209,PAT-1126,R53.83,Fatigue & Malaise,Other fatigue,False
+342,ENC-9210,PAT-1126,A41.9,Sepsis,"Sepsis, unspecified organism",True
+343,ENC-9211,PAT-1127,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+344,ENC-9212,PAT-1128,S72.001A,Femur Fracture,Fracture of head of right femur,True
+345,ENC-9213,PAT-1128,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+346,ENC-9213,PAT-1128,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+347,ENC-9214,PAT-1128,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+348,ENC-9214,PAT-1128,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+349,ENC-9215,PAT-1128,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+350,ENC-9215,PAT-1128,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+351,ENC-9216,PAT-1129,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+352,ENC-9217,PAT-1130,R53.83,Fatigue & Malaise,Other fatigue,True
+353,ENC-9217,PAT-1130,A41.9,Sepsis,"Sepsis, unspecified organism",False
+354,ENC-9218,PAT-1130,G20,Parkinson's Disease,Parkinson's disease,True
+355,ENC-9219,PAT-1130,I10,Hypertension,Essential (primary) hypertension,True
+356,ENC-9219,PAT-1130,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+357,ENC-9220,PAT-1131,S72.001A,Femur Fracture,Fracture of head of right femur,True
+358,ENC-9221,PAT-1131,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+359,ENC-9222,PAT-1132,M54.5,Low Back Pain,Low back pain,True
+360,ENC-9223,PAT-1133,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+361,ENC-9224,PAT-1134,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+362,ENC-9224,PAT-1134,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+363,ENC-9225,PAT-1135,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+364,ENC-9226,PAT-1136,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+365,ENC-9227,PAT-1136,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+366,ENC-9227,PAT-1136,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+367,ENC-9228,PAT-1137,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+368,ENC-9229,PAT-1138,S72.001A,Femur Fracture,Fracture of head of right femur,True
+369,ENC-9229,PAT-1138,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+370,ENC-9230,PAT-1138,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+371,ENC-9230,PAT-1138,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+372,ENC-9231,PAT-1138,E86.0,Dehydration,Dehydration,True
+373,ENC-9232,PAT-1139,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+374,ENC-9232,PAT-1139,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+375,ENC-9233,PAT-1139,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+376,ENC-9233,PAT-1139,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+377,ENC-9234,PAT-1140,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+378,ENC-9234,PAT-1140,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+379,ENC-9235,PAT-1140,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+380,ENC-9235,PAT-1140,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+381,ENC-9236,PAT-1140,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+382,ENC-9237,PAT-1141,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+383,ENC-9237,PAT-1141,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+384,ENC-9238,PAT-1141,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+385,ENC-9239,PAT-1143,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+386,ENC-9239,PAT-1143,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+387,ENC-9240,PAT-1144,M54.5,Low Back Pain,Low back pain,True
+388,ENC-9241,PAT-1144,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+389,ENC-9241,PAT-1144,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+390,ENC-9242,PAT-1145,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+391,ENC-9242,PAT-1145,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+392,ENC-9243,PAT-1145,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+393,ENC-9244,PAT-1146,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+394,ENC-9244,PAT-1146,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+395,ENC-9245,PAT-1146,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+396,ENC-9246,PAT-1147,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+397,ENC-9247,PAT-1148,R53.83,Fatigue & Malaise,Other fatigue,True
+398,ENC-9248,PAT-1149,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+399,ENC-9248,PAT-1149,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+400,ENC-9249,PAT-1149,R53.83,Fatigue & Malaise,Other fatigue,True
+401,ENC-9249,PAT-1149,E86.0,Dehydration,Dehydration,False
+402,ENC-9250,PAT-1150,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+403,ENC-9250,PAT-1150,A41.9,Sepsis,"Sepsis, unspecified organism",False
+404,ENC-9251,PAT-1151,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+405,ENC-9251,PAT-1151,S72.001A,Femur Fracture,Fracture of head of right femur,False
+406,ENC-9252,PAT-1151,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+407,ENC-9253,PAT-1151,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+408,ENC-9253,PAT-1151,E86.0,Dehydration,Dehydration,False
+409,ENC-9254,PAT-1152,E86.0,Dehydration,Dehydration,True
+410,ENC-9254,PAT-1152,R53.83,Fatigue & Malaise,Other fatigue,False
+411,ENC-9255,PAT-1152,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+412,ENC-9256,PAT-1153,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+413,ENC-9256,PAT-1153,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+414,ENC-9257,PAT-1154,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+415,ENC-9258,PAT-1154,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+416,ENC-9259,PAT-1154,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+417,ENC-9260,PAT-1155,R53.83,Fatigue & Malaise,Other fatigue,True
+418,ENC-9261,PAT-1156,M54.5,Low Back Pain,Low back pain,True
+419,ENC-9262,PAT-1156,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+420,ENC-9262,PAT-1156,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+421,ENC-9263,PAT-1158,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+422,ENC-9263,PAT-1158,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+423,ENC-9264,PAT-1158,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+424,ENC-9264,PAT-1158,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+425,ENC-9265,PAT-1159,G20,Parkinson's Disease,Parkinson's disease,True
+426,ENC-9265,PAT-1159,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+427,ENC-9266,PAT-1159,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+428,ENC-9266,PAT-1159,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+429,ENC-9267,PAT-1159,G20,Parkinson's Disease,Parkinson's disease,True
+430,ENC-9267,PAT-1159,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+431,ENC-9268,PAT-1160,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+432,ENC-9269,PAT-1161,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+433,ENC-9270,PAT-1162,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+434,ENC-9270,PAT-1162,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+435,ENC-9271,PAT-1162,R53.83,Fatigue & Malaise,Other fatigue,True
+436,ENC-9271,PAT-1162,E86.0,Dehydration,Dehydration,False
+437,ENC-9272,PAT-1162,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+438,ENC-9273,PAT-1162,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+439,ENC-9274,PAT-1163,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+440,ENC-9274,PAT-1163,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+441,ENC-9275,PAT-1163,I10,Hypertension,Essential (primary) hypertension,True
+442,ENC-9276,PAT-1163,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+443,ENC-9276,PAT-1163,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+444,ENC-9277,PAT-1163,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+445,ENC-9277,PAT-1163,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+446,ENC-9278,PAT-1164,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+447,ENC-9278,PAT-1164,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+448,ENC-9279,PAT-1164,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+449,ENC-9279,PAT-1164,A41.9,Sepsis,"Sepsis, unspecified organism",False
+450,ENC-9280,PAT-1165,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+451,ENC-9281,PAT-1165,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+452,ENC-9282,PAT-1166,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+453,ENC-9283,PAT-1166,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+454,ENC-9284,PAT-1167,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+455,ENC-9284,PAT-1167,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+456,ENC-9285,PAT-1169,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+457,ENC-9286,PAT-1169,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+458,ENC-9286,PAT-1169,I10,Hypertension,Essential (primary) hypertension,False
+459,ENC-9287,PAT-1170,E86.0,Dehydration,Dehydration,True
+460,ENC-9287,PAT-1170,A41.9,Sepsis,"Sepsis, unspecified organism",False
+461,ENC-9288,PAT-1171,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+462,ENC-9289,PAT-1171,I10,Hypertension,Essential (primary) hypertension,True
+463,ENC-9290,PAT-1171,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+464,ENC-9290,PAT-1171,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+465,ENC-9291,PAT-1171,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+466,ENC-9291,PAT-1171,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+467,ENC-9292,PAT-1172,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+468,ENC-9292,PAT-1172,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+469,ENC-9293,PAT-1172,E86.0,Dehydration,Dehydration,True
+470,ENC-9294,PAT-1172,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+471,ENC-9294,PAT-1172,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+472,ENC-9295,PAT-1173,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+473,ENC-9295,PAT-1173,I10,Hypertension,Essential (primary) hypertension,False
+474,ENC-9296,PAT-1174,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+475,ENC-9297,PAT-1174,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+476,ENC-9298,PAT-1174,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+477,ENC-9299,PAT-1175,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+478,ENC-9299,PAT-1175,I10,Hypertension,Essential (primary) hypertension,False
+479,ENC-9300,PAT-1176,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+480,ENC-9300,PAT-1176,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+481,ENC-9301,PAT-1177,G20,Parkinson's Disease,Parkinson's disease,True
+482,ENC-9301,PAT-1177,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+483,ENC-9302,PAT-1177,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+484,ENC-9302,PAT-1177,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+485,ENC-9303,PAT-1178,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+486,ENC-9303,PAT-1178,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+487,ENC-9304,PAT-1178,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+488,ENC-9304,PAT-1178,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+489,ENC-9305,PAT-1179,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+490,ENC-9306,PAT-1179,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+491,ENC-9306,PAT-1179,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+492,ENC-9307,PAT-1180,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+493,ENC-9307,PAT-1180,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+494,ENC-9308,PAT-1180,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+495,ENC-9308,PAT-1180,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+496,ENC-9309,PAT-1181,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+497,ENC-9309,PAT-1181,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+498,ENC-9310,PAT-1182,M54.5,Low Back Pain,Low back pain,True
+499,ENC-9310,PAT-1182,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",False
+500,ENC-9311,PAT-1182,A41.9,Sepsis,"Sepsis, unspecified organism",True
+501,ENC-9312,PAT-1182,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+502,ENC-9313,PAT-1183,I10,Hypertension,Essential (primary) hypertension,True
+503,ENC-9313,PAT-1183,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+504,ENC-9314,PAT-1183,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+505,ENC-9315,PAT-1184,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+506,ENC-9316,PAT-1185,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+507,ENC-9316,PAT-1185,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+508,ENC-9317,PAT-1185,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+509,ENC-9318,PAT-1185,A41.9,Sepsis,"Sepsis, unspecified organism",True
+510,ENC-9319,PAT-1186,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+511,ENC-9319,PAT-1186,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+512,ENC-9320,PAT-1186,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+513,ENC-9320,PAT-1186,S72.001A,Femur Fracture,Fracture of head of right femur,False
+514,ENC-9321,PAT-1186,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+515,ENC-9321,PAT-1186,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+516,ENC-9322,PAT-1186,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+517,ENC-9323,PAT-1187,S72.001A,Femur Fracture,Fracture of head of right femur,True
+518,ENC-9323,PAT-1187,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+519,ENC-9324,PAT-1188,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+520,ENC-9325,PAT-1189,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+521,ENC-9326,PAT-1189,A41.9,Sepsis,"Sepsis, unspecified organism",True
+522,ENC-9327,PAT-1190,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+523,ENC-9327,PAT-1190,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+524,ENC-9328,PAT-1190,M54.5,Low Back Pain,Low back pain,True
+525,ENC-9328,PAT-1190,S72.001A,Femur Fracture,Fracture of head of right femur,False
+526,ENC-9329,PAT-1191,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+527,ENC-9330,PAT-1192,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+528,ENC-9331,PAT-1192,E86.0,Dehydration,Dehydration,True
+529,ENC-9331,PAT-1192,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+530,ENC-9332,PAT-1192,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+531,ENC-9333,PAT-1193,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+532,ENC-9333,PAT-1193,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+533,ENC-9334,PAT-1194,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+534,ENC-9335,PAT-1195,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+535,ENC-9335,PAT-1195,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+536,ENC-9336,PAT-1195,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+537,ENC-9336,PAT-1195,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+538,ENC-9337,PAT-1195,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+539,ENC-9338,PAT-1196,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+540,ENC-9339,PAT-1196,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+541,ENC-9339,PAT-1196,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+542,ENC-9340,PAT-1197,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+543,ENC-9341,PAT-1198,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+544,ENC-9342,PAT-1199,E86.0,Dehydration,Dehydration,True
+545,ENC-9342,PAT-1199,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+546,ENC-9343,PAT-1199,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+547,ENC-9343,PAT-1199,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+548,ENC-9344,PAT-1200,R53.83,Fatigue & Malaise,Other fatigue,True
+549,ENC-9345,PAT-1201,M54.5,Low Back Pain,Low back pain,True
+550,ENC-9345,PAT-1201,S72.001A,Femur Fracture,Fracture of head of right femur,False
+551,ENC-9346,PAT-1201,G20,Parkinson's Disease,Parkinson's disease,True
+552,ENC-9347,PAT-1202,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+553,ENC-9347,PAT-1202,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+554,ENC-9348,PAT-1203,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+555,ENC-9348,PAT-1203,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+556,ENC-9349,PAT-1203,A41.9,Sepsis,"Sepsis, unspecified organism",True
+557,ENC-9350,PAT-1203,I10,Hypertension,Essential (primary) hypertension,True
+558,ENC-9351,PAT-1203,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+559,ENC-9352,PAT-1205,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+560,ENC-9352,PAT-1205,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+561,ENC-9353,PAT-1205,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+562,ENC-9353,PAT-1205,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+563,ENC-9354,PAT-1206,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+564,ENC-9354,PAT-1206,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+565,ENC-9355,PAT-1206,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+566,ENC-9355,PAT-1206,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+567,ENC-9356,PAT-1206,I10,Hypertension,Essential (primary) hypertension,True
+568,ENC-9357,PAT-1206,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+569,ENC-9357,PAT-1206,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+570,ENC-9358,PAT-1207,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+571,ENC-9359,PAT-1208,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+572,ENC-9360,PAT-1209,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+573,ENC-9361,PAT-1210,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+574,ENC-9361,PAT-1210,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+575,ENC-9362,PAT-1210,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+576,ENC-9362,PAT-1210,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+577,ENC-9363,PAT-1210,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+578,ENC-9363,PAT-1210,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+579,ENC-9364,PAT-1212,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+580,ENC-9365,PAT-1212,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+581,ENC-9365,PAT-1212,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+582,ENC-9366,PAT-1213,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+583,ENC-9367,PAT-1213,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+584,ENC-9368,PAT-1214,R53.83,Fatigue & Malaise,Other fatigue,True
+585,ENC-9368,PAT-1214,E86.0,Dehydration,Dehydration,False
+586,ENC-9369,PAT-1215,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+587,ENC-9370,PAT-1215,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+588,ENC-9371,PAT-1216,R53.83,Fatigue & Malaise,Other fatigue,True
+589,ENC-9372,PAT-1217,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+590,ENC-9373,PAT-1217,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+591,ENC-9373,PAT-1217,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+592,ENC-9374,PAT-1217,A41.9,Sepsis,"Sepsis, unspecified organism",True
+593,ENC-9374,PAT-1217,R53.83,Fatigue & Malaise,Other fatigue,False
+594,ENC-9375,PAT-1218,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+595,ENC-9376,PAT-1218,A41.9,Sepsis,"Sepsis, unspecified organism",True
+596,ENC-9377,PAT-1219,R53.83,Fatigue & Malaise,Other fatigue,True
+597,ENC-9378,PAT-1220,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+598,ENC-9379,PAT-1220,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+599,ENC-9379,PAT-1220,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+600,ENC-9380,PAT-1221,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+601,ENC-9381,PAT-1221,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+602,ENC-9382,PAT-1223,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+603,ENC-9382,PAT-1223,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+604,ENC-9383,PAT-1224,G20,Parkinson's Disease,Parkinson's disease,True
+605,ENC-9383,PAT-1224,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+606,ENC-9384,PAT-1224,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+607,ENC-9385,PAT-1225,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+608,ENC-9386,PAT-1226,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+609,ENC-9386,PAT-1226,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+610,ENC-9387,PAT-1226,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+611,ENC-9387,PAT-1226,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+612,ENC-9388,PAT-1227,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+613,ENC-9388,PAT-1227,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+614,ENC-9389,PAT-1227,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+615,ENC-9390,PAT-1228,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+616,ENC-9391,PAT-1228,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+617,ENC-9391,PAT-1228,R53.83,Fatigue & Malaise,Other fatigue,False
+618,ENC-9392,PAT-1229,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+619,ENC-9392,PAT-1229,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+620,ENC-9393,PAT-1231,G20,Parkinson's Disease,Parkinson's disease,True
+621,ENC-9393,PAT-1231,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+622,ENC-9394,PAT-1232,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+623,ENC-9395,PAT-1233,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+624,ENC-9395,PAT-1233,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+625,ENC-9396,PAT-1233,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+626,ENC-9397,PAT-1233,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+627,ENC-9397,PAT-1233,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+628,ENC-9398,PAT-1234,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+629,ENC-9399,PAT-1235,A41.9,Sepsis,"Sepsis, unspecified organism",True
+630,ENC-9399,PAT-1235,R53.83,Fatigue & Malaise,Other fatigue,False
+631,ENC-9400,PAT-1235,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+632,ENC-9401,PAT-1235,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+633,ENC-9401,PAT-1235,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+634,ENC-9402,PAT-1236,I10,Hypertension,Essential (primary) hypertension,True
+635,ENC-9402,PAT-1236,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+636,ENC-9403,PAT-1236,I10,Hypertension,Essential (primary) hypertension,True
+637,ENC-9403,PAT-1236,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+638,ENC-9404,PAT-1236,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+639,ENC-9405,PAT-1237,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+640,ENC-9406,PAT-1238,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+641,ENC-9407,PAT-1239,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+642,ENC-9407,PAT-1239,A41.9,Sepsis,"Sepsis, unspecified organism",False
+643,ENC-9408,PAT-1240,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+644,ENC-9408,PAT-1240,M54.5,Low Back Pain,Low back pain,False
+645,ENC-9409,PAT-1241,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+646,ENC-9409,PAT-1241,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+647,ENC-9410,PAT-1241,S72.001A,Femur Fracture,Fracture of head of right femur,True
+648,ENC-9411,PAT-1242,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+649,ENC-9411,PAT-1242,M54.5,Low Back Pain,Low back pain,False
+650,ENC-9412,PAT-1243,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+651,ENC-9412,PAT-1243,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+652,ENC-9413,PAT-1243,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+653,ENC-9414,PAT-1244,G20,Parkinson's Disease,Parkinson's disease,True
+654,ENC-9415,PAT-1245,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+655,ENC-9416,PAT-1245,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+656,ENC-9417,PAT-1245,G20,Parkinson's Disease,Parkinson's disease,True
+657,ENC-9417,PAT-1245,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+658,ENC-9418,PAT-1245,A41.9,Sepsis,"Sepsis, unspecified organism",True
+659,ENC-9418,PAT-1245,E86.0,Dehydration,Dehydration,False
+660,ENC-9419,PAT-1246,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+661,ENC-9420,PAT-1247,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+662,ENC-9421,PAT-1249,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+663,ENC-9421,PAT-1249,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+664,ENC-9422,PAT-1249,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+665,ENC-9422,PAT-1249,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+666,ENC-9423,PAT-1249,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+667,ENC-9423,PAT-1249,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+668,ENC-9424,PAT-1250,I10,Hypertension,Essential (primary) hypertension,True
+669,ENC-9425,PAT-1251,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+670,ENC-9426,PAT-1251,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+671,ENC-9427,PAT-1251,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+672,ENC-9427,PAT-1251,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+673,ENC-9428,PAT-1252,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+674,ENC-9428,PAT-1252,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+675,ENC-9429,PAT-1253,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+676,ENC-9430,PAT-1253,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+677,ENC-9430,PAT-1253,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+678,ENC-9431,PAT-1254,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+679,ENC-9432,PAT-1255,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+680,ENC-9433,PAT-1256,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+681,ENC-9434,PAT-1256,A41.9,Sepsis,"Sepsis, unspecified organism",True
+682,ENC-9435,PAT-1257,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+683,ENC-9436,PAT-1258,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+684,ENC-9436,PAT-1258,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+685,ENC-9437,PAT-1258,A41.9,Sepsis,"Sepsis, unspecified organism",True
+686,ENC-9438,PAT-1258,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+687,ENC-9439,PAT-1259,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+688,ENC-9440,PAT-1260,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+689,ENC-9440,PAT-1260,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+690,ENC-9441,PAT-1261,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+691,ENC-9441,PAT-1261,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+692,ENC-9442,PAT-1262,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+693,ENC-9442,PAT-1262,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+694,ENC-9443,PAT-1262,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+695,ENC-9443,PAT-1262,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+696,ENC-9444,PAT-1263,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+697,ENC-9444,PAT-1263,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+698,ENC-9445,PAT-1263,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+699,ENC-9445,PAT-1263,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+700,ENC-9446,PAT-1264,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+701,ENC-9447,PAT-1265,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+702,ENC-9447,PAT-1265,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+703,ENC-9448,PAT-1266,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+704,ENC-9449,PAT-1266,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+705,ENC-9450,PAT-1266,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+706,ENC-9451,PAT-1266,S72.001A,Femur Fracture,Fracture of head of right femur,True
+707,ENC-9451,PAT-1266,M54.5,Low Back Pain,Low back pain,False
+708,ENC-9452,PAT-1267,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+709,ENC-9453,PAT-1267,A41.9,Sepsis,"Sepsis, unspecified organism",True
+710,ENC-9453,PAT-1267,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+711,ENC-9454,PAT-1268,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+712,ENC-9455,PAT-1269,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+713,ENC-9456,PAT-1269,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+714,ENC-9456,PAT-1269,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+715,ENC-9457,PAT-1269,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+716,ENC-9457,PAT-1269,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+717,ENC-9458,PAT-1270,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+718,ENC-9459,PAT-1271,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+719,ENC-9460,PAT-1271,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+720,ENC-9461,PAT-1271,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+721,ENC-9462,PAT-1272,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+722,ENC-9462,PAT-1272,M54.5,Low Back Pain,Low back pain,False
+723,ENC-9463,PAT-1272,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+724,ENC-9464,PAT-1272,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+725,ENC-9464,PAT-1272,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+726,ENC-9465,PAT-1273,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+727,ENC-9466,PAT-1274,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+728,ENC-9467,PAT-1274,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+729,ENC-9468,PAT-1275,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+730,ENC-9468,PAT-1275,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+731,ENC-9469,PAT-1275,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+732,ENC-9469,PAT-1275,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+733,ENC-9470,PAT-1276,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+734,ENC-9470,PAT-1276,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+735,ENC-9471,PAT-1277,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+736,ENC-9472,PAT-1278,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+737,ENC-9473,PAT-1279,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+738,ENC-9474,PAT-1279,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+739,ENC-9475,PAT-1280,I10,Hypertension,Essential (primary) hypertension,True
+740,ENC-9475,PAT-1280,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+741,ENC-9476,PAT-1280,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+742,ENC-9476,PAT-1280,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+743,ENC-9477,PAT-1280,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+744,ENC-9478,PAT-1281,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+745,ENC-9478,PAT-1281,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+746,ENC-9479,PAT-1281,G20,Parkinson's Disease,Parkinson's disease,True
+747,ENC-9479,PAT-1281,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+748,ENC-9480,PAT-1282,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+749,ENC-9481,PAT-1283,S72.001A,Femur Fracture,Fracture of head of right femur,True
+750,ENC-9481,PAT-1283,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+751,ENC-9482,PAT-1284,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+752,ENC-9482,PAT-1284,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+753,ENC-9483,PAT-1284,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+754,ENC-9483,PAT-1284,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+755,ENC-9484,PAT-1284,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+756,ENC-9484,PAT-1284,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+757,ENC-9485,PAT-1285,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+758,ENC-9485,PAT-1285,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+759,ENC-9486,PAT-1286,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+760,ENC-9487,PAT-1287,A41.9,Sepsis,"Sepsis, unspecified organism",True
+761,ENC-9487,PAT-1287,E86.0,Dehydration,Dehydration,False
+762,ENC-9488,PAT-1287,I10,Hypertension,Essential (primary) hypertension,True
+763,ENC-9488,PAT-1287,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+764,ENC-9489,PAT-1287,R53.83,Fatigue & Malaise,Other fatigue,True
+765,ENC-9490,PAT-1287,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+766,ENC-9490,PAT-1287,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+767,ENC-9491,PAT-1288,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+768,ENC-9492,PAT-1288,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+769,ENC-9492,PAT-1288,S72.001A,Femur Fracture,Fracture of head of right femur,False
+770,ENC-9493,PAT-1289,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+771,ENC-9493,PAT-1289,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+772,ENC-9494,PAT-1289,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+773,ENC-9495,PAT-1290,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+774,ENC-9495,PAT-1290,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+775,ENC-9496,PAT-1291,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+776,ENC-9496,PAT-1291,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+777,ENC-9497,PAT-1292,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+778,ENC-9498,PAT-1293,G20,Parkinson's Disease,Parkinson's disease,True
+779,ENC-9499,PAT-1294,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+780,ENC-9500,PAT-1295,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+781,ENC-9501,PAT-1295,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+782,ENC-9502,PAT-1296,M54.5,Low Back Pain,Low back pain,True
+783,ENC-9503,PAT-1297,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+784,ENC-9504,PAT-1298,G20,Parkinson's Disease,Parkinson's disease,True
+785,ENC-9505,PAT-1299,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+786,ENC-9506,PAT-1299,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+787,ENC-9507,PAT-1300,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+788,ENC-9508,PAT-1301,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+789,ENC-9508,PAT-1301,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+790,ENC-9509,PAT-1301,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+791,ENC-9509,PAT-1301,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+792,ENC-9510,PAT-1301,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+793,ENC-9511,PAT-1301,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+794,ENC-9512,PAT-1302,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+795,ENC-9513,PAT-1302,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+796,ENC-9514,PAT-1302,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+797,ENC-9515,PAT-1302,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+798,ENC-9516,PAT-1304,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+799,ENC-9516,PAT-1304,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+800,ENC-9517,PAT-1305,I10,Hypertension,Essential (primary) hypertension,True
+801,ENC-9517,PAT-1305,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+802,ENC-9518,PAT-1305,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+803,ENC-9518,PAT-1305,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+804,ENC-9519,PAT-1305,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+805,ENC-9520,PAT-1305,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+806,ENC-9521,PAT-1306,I10,Hypertension,Essential (primary) hypertension,True
+807,ENC-9522,PAT-1306,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+808,ENC-9523,PAT-1307,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+809,ENC-9524,PAT-1308,M54.5,Low Back Pain,Low back pain,True
+810,ENC-9524,PAT-1308,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",False
+811,ENC-9525,PAT-1309,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+812,ENC-9526,PAT-1310,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+813,ENC-9526,PAT-1310,S72.001A,Femur Fracture,Fracture of head of right femur,False
+814,ENC-9527,PAT-1311,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+815,ENC-9527,PAT-1311,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+816,ENC-9528,PAT-1311,E86.0,Dehydration,Dehydration,True
+817,ENC-9529,PAT-1312,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+818,ENC-9529,PAT-1312,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+819,ENC-9530,PAT-1313,E86.0,Dehydration,Dehydration,True
+820,ENC-9531,PAT-1313,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+821,ENC-9531,PAT-1313,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+822,ENC-9532,PAT-1313,S72.001A,Femur Fracture,Fracture of head of right femur,True
+823,ENC-9532,PAT-1313,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",False
+824,ENC-9533,PAT-1314,I10,Hypertension,Essential (primary) hypertension,True
+825,ENC-9533,PAT-1314,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+826,ENC-9534,PAT-1314,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+827,ENC-9534,PAT-1314,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+828,ENC-9535,PAT-1314,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+829,ENC-9536,PAT-1315,G20,Parkinson's Disease,Parkinson's disease,True
+830,ENC-9537,PAT-1315,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+831,ENC-9537,PAT-1315,E86.0,Dehydration,Dehydration,False
+832,ENC-9538,PAT-1315,S72.001A,Femur Fracture,Fracture of head of right femur,True
+833,ENC-9539,PAT-1317,G20,Parkinson's Disease,Parkinson's disease,True
+834,ENC-9540,PAT-1318,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+835,ENC-9541,PAT-1318,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+836,ENC-9541,PAT-1318,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+837,ENC-9542,PAT-1319,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+838,ENC-9542,PAT-1319,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+839,ENC-9543,PAT-1320,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+840,ENC-9543,PAT-1320,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+841,ENC-9544,PAT-1320,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+842,ENC-9544,PAT-1320,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+843,ENC-9545,PAT-1321,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+844,ENC-9546,PAT-1321,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+845,ENC-9547,PAT-1322,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+846,ENC-9548,PAT-1323,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+847,ENC-9549,PAT-1323,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+848,ENC-9549,PAT-1323,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+849,ENC-9550,PAT-1324,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+850,ENC-9551,PAT-1325,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+851,ENC-9552,PAT-1326,G20,Parkinson's Disease,Parkinson's disease,True
+852,ENC-9552,PAT-1326,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+853,ENC-9553,PAT-1327,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+854,ENC-9553,PAT-1327,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+855,ENC-9554,PAT-1327,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+856,ENC-9554,PAT-1327,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+857,ENC-9555,PAT-1328,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+858,ENC-9556,PAT-1328,I10,Hypertension,Essential (primary) hypertension,True
+859,ENC-9557,PAT-1328,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+860,ENC-9558,PAT-1329,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+861,ENC-9559,PAT-1329,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+862,ENC-9560,PAT-1330,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+863,ENC-9560,PAT-1330,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+864,ENC-9561,PAT-1330,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+865,ENC-9561,PAT-1330,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+866,ENC-9562,PAT-1330,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+867,ENC-9562,PAT-1330,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+868,ENC-9563,PAT-1330,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+869,ENC-9564,PAT-1331,R53.83,Fatigue & Malaise,Other fatigue,True
+870,ENC-9565,PAT-1331,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+871,ENC-9565,PAT-1331,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+872,ENC-9566,PAT-1332,G20,Parkinson's Disease,Parkinson's disease,True
+873,ENC-9567,PAT-1332,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+874,ENC-9567,PAT-1332,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+875,ENC-9568,PAT-1332,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+876,ENC-9568,PAT-1332,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+877,ENC-9569,PAT-1333,A41.9,Sepsis,"Sepsis, unspecified organism",True
+878,ENC-9569,PAT-1333,E86.0,Dehydration,Dehydration,False
+879,ENC-9570,PAT-1333,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+880,ENC-9571,PAT-1333,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+881,ENC-9571,PAT-1333,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+882,ENC-9572,PAT-1334,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+883,ENC-9572,PAT-1334,G20,Parkinson's Disease,Parkinson's disease,False
+884,ENC-9573,PAT-1334,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+885,ENC-9574,PAT-1335,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+886,ENC-9574,PAT-1335,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+887,ENC-9575,PAT-1335,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+888,ENC-9575,PAT-1335,K50.90,Crohn's Disease,"Crohn's disease, unspecified",False
+889,ENC-9576,PAT-1335,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+890,ENC-9577,PAT-1335,R53.83,Fatigue & Malaise,Other fatigue,True
+891,ENC-9577,PAT-1335,A41.9,Sepsis,"Sepsis, unspecified organism",False
+892,ENC-9578,PAT-1335,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+893,ENC-9579,PAT-1336,R53.83,Fatigue & Malaise,Other fatigue,True
+894,ENC-9580,PAT-1336,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+895,ENC-9580,PAT-1336,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+896,ENC-9581,PAT-1337,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+897,ENC-9581,PAT-1337,G20,Parkinson's Disease,Parkinson's disease,False
+898,ENC-9582,PAT-1337,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+899,ENC-9583,PAT-1338,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+900,ENC-9584,PAT-1338,S72.001A,Femur Fracture,Fracture of head of right femur,True
+901,ENC-9585,PAT-1338,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+902,ENC-9585,PAT-1338,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+903,ENC-9586,PAT-1339,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+904,ENC-9587,PAT-1340,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+905,ENC-9588,PAT-1340,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+906,ENC-9589,PAT-1340,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+907,ENC-9589,PAT-1340,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+908,ENC-9590,PAT-1340,S72.001A,Femur Fracture,Fracture of head of right femur,True
+909,ENC-9590,PAT-1340,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",False
+910,ENC-9591,PAT-1341,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+911,ENC-9591,PAT-1341,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+912,ENC-9592,PAT-1342,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+913,ENC-9593,PAT-1342,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+914,ENC-9593,PAT-1342,E86.0,Dehydration,Dehydration,False
+915,ENC-9594,PAT-1342,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+916,ENC-9594,PAT-1342,G20,Parkinson's Disease,Parkinson's disease,False
+917,ENC-9595,PAT-1342,R53.83,Fatigue & Malaise,Other fatigue,True
+918,ENC-9596,PAT-1343,M54.5,Low Back Pain,Low back pain,True
+919,ENC-9596,PAT-1343,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+920,ENC-9597,PAT-1344,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+921,ENC-9598,PAT-1345,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+922,ENC-9598,PAT-1345,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+923,ENC-9599,PAT-1346,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+924,ENC-9600,PAT-1347,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+925,ENC-9600,PAT-1347,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+926,ENC-9601,PAT-1348,R53.83,Fatigue & Malaise,Other fatigue,True
+927,ENC-9602,PAT-1349,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+928,ENC-9602,PAT-1349,R53.83,Fatigue & Malaise,Other fatigue,False
+929,ENC-9603,PAT-1350,S72.001A,Femur Fracture,Fracture of head of right femur,True
+930,ENC-9603,PAT-1350,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+931,ENC-9604,PAT-1350,G20,Parkinson's Disease,Parkinson's disease,True
+932,ENC-9605,PAT-1350,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+933,ENC-9606,PAT-1351,E86.0,Dehydration,Dehydration,True
+934,ENC-9607,PAT-1352,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+935,ENC-9608,PAT-1352,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+936,ENC-9609,PAT-1354,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+937,ENC-9610,PAT-1354,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+938,ENC-9610,PAT-1354,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+939,ENC-9611,PAT-1354,G20,Parkinson's Disease,Parkinson's disease,True
+940,ENC-9611,PAT-1354,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+941,ENC-9612,PAT-1355,I10,Hypertension,Essential (primary) hypertension,True
+942,ENC-9612,PAT-1355,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+943,ENC-9613,PAT-1355,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+944,ENC-9614,PAT-1355,E86.0,Dehydration,Dehydration,True
+945,ENC-9615,PAT-1356,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+946,ENC-9615,PAT-1356,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+947,ENC-9616,PAT-1356,A41.9,Sepsis,"Sepsis, unspecified organism",True
+948,ENC-9617,PAT-1357,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+949,ENC-9618,PAT-1358,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+950,ENC-9618,PAT-1358,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+951,ENC-9619,PAT-1359,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+952,ENC-9619,PAT-1359,G20,Parkinson's Disease,Parkinson's disease,False
+953,ENC-9620,PAT-1360,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+954,ENC-9621,PAT-1360,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+955,ENC-9621,PAT-1360,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+956,ENC-9622,PAT-1361,A41.9,Sepsis,"Sepsis, unspecified organism",True
+957,ENC-9622,PAT-1361,R53.83,Fatigue & Malaise,Other fatigue,False
+958,ENC-9623,PAT-1362,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+959,ENC-9624,PAT-1362,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+960,ENC-9625,PAT-1363,S72.001A,Femur Fracture,Fracture of head of right femur,True
+961,ENC-9625,PAT-1363,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",False
+962,ENC-9626,PAT-1363,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+963,ENC-9626,PAT-1363,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+964,ENC-9627,PAT-1364,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+965,ENC-9627,PAT-1364,S72.001A,Femur Fracture,Fracture of head of right femur,False
+966,ENC-9628,PAT-1364,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+967,ENC-9628,PAT-1364,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+968,ENC-9629,PAT-1365,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+969,ENC-9630,PAT-1366,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+970,ENC-9630,PAT-1366,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+971,ENC-9631,PAT-1367,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+972,ENC-9632,PAT-1368,E86.0,Dehydration,Dehydration,True
+973,ENC-9632,PAT-1368,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+974,ENC-9633,PAT-1368,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+975,ENC-9633,PAT-1368,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+976,ENC-9634,PAT-1369,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+977,ENC-9634,PAT-1369,M54.5,Low Back Pain,Low back pain,False
+978,ENC-9635,PAT-1369,E86.0,Dehydration,Dehydration,True
+979,ENC-9635,PAT-1369,R53.83,Fatigue & Malaise,Other fatigue,False
+980,ENC-9636,PAT-1370,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+981,ENC-9636,PAT-1370,A41.9,Sepsis,"Sepsis, unspecified organism",False
+982,ENC-9637,PAT-1370,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+983,ENC-9638,PAT-1370,R53.83,Fatigue & Malaise,Other fatigue,True
+984,ENC-9638,PAT-1370,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+985,ENC-9639,PAT-1370,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+986,ENC-9639,PAT-1370,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+987,ENC-9640,PAT-1370,I10,Hypertension,Essential (primary) hypertension,True
+988,ENC-9640,PAT-1370,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+989,ENC-9641,PAT-1371,E86.0,Dehydration,Dehydration,True
+990,ENC-9641,PAT-1371,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+991,ENC-9642,PAT-1371,G20,Parkinson's Disease,Parkinson's disease,True
+992,ENC-9643,PAT-1372,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+993,ENC-9643,PAT-1372,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+994,ENC-9644,PAT-1373,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+995,ENC-9645,PAT-1373,I10,Hypertension,Essential (primary) hypertension,True
+996,ENC-9645,PAT-1373,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+997,ENC-9646,PAT-1374,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+998,ENC-9647,PAT-1376,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+999,ENC-9648,PAT-1377,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+1000,ENC-9648,PAT-1377,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+1001,ENC-9649,PAT-1377,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1002,ENC-9650,PAT-1377,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1003,ENC-9651,PAT-1377,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1004,ENC-9651,PAT-1377,G20,Parkinson's Disease,Parkinson's disease,False
+1005,ENC-9652,PAT-1377,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1006,ENC-9653,PAT-1378,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1007,ENC-9654,PAT-1378,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1008,ENC-9655,PAT-1379,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1009,ENC-9656,PAT-1380,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1010,ENC-9656,PAT-1380,R53.83,Fatigue & Malaise,Other fatigue,False
+1011,ENC-9657,PAT-1381,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1012,ENC-9658,PAT-1381,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1013,ENC-9659,PAT-1381,I10,Hypertension,Essential (primary) hypertension,True
+1014,ENC-9660,PAT-1381,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1015,ENC-9661,PAT-1383,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1016,ENC-9662,PAT-1383,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1017,ENC-9662,PAT-1383,R53.83,Fatigue & Malaise,Other fatigue,False
+1018,ENC-9663,PAT-1384,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+1019,ENC-9664,PAT-1384,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+1020,ENC-9664,PAT-1384,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+1021,ENC-9665,PAT-1385,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1022,ENC-9665,PAT-1385,K50.90,Crohn's Disease,"Crohn's disease, unspecified",False
+1023,ENC-9666,PAT-1386,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1024,ENC-9666,PAT-1386,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+1025,ENC-9667,PAT-1386,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1026,ENC-9667,PAT-1386,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1027,ENC-9668,PAT-1387,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+1028,ENC-9669,PAT-1388,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1029,ENC-9669,PAT-1388,E86.0,Dehydration,Dehydration,False
+1030,ENC-9670,PAT-1389,S72.001A,Femur Fracture,Fracture of head of right femur,True
+1031,ENC-9670,PAT-1389,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",False
+1032,ENC-9671,PAT-1390,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1033,ENC-9671,PAT-1390,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+1034,ENC-9672,PAT-1391,S72.001A,Femur Fracture,Fracture of head of right femur,True
+1035,ENC-9672,PAT-1391,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",False
+1036,ENC-9673,PAT-1391,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+1037,ENC-9674,PAT-1392,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+1038,ENC-9675,PAT-1392,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1039,ENC-9676,PAT-1393,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1040,ENC-9676,PAT-1393,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+1041,ENC-9677,PAT-1394,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1042,ENC-9678,PAT-1394,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1043,ENC-9678,PAT-1394,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+1044,ENC-9679,PAT-1395,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1045,ENC-9680,PAT-1395,M54.5,Low Back Pain,Low back pain,True
+1046,ENC-9680,PAT-1395,S72.001A,Femur Fracture,Fracture of head of right femur,False
+1047,ENC-9681,PAT-1395,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1048,ENC-9681,PAT-1395,G20,Parkinson's Disease,Parkinson's disease,False
+1049,ENC-9682,PAT-1396,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1050,ENC-9682,PAT-1396,G20,Parkinson's Disease,Parkinson's disease,False
+1051,ENC-9683,PAT-1396,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+1052,ENC-9683,PAT-1396,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+1053,ENC-9684,PAT-1397,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1054,ENC-9684,PAT-1397,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+1055,ENC-9685,PAT-1398,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1056,ENC-9686,PAT-1399,R53.83,Fatigue & Malaise,Other fatigue,True
+1057,ENC-9687,PAT-1399,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1058,ENC-9688,PAT-1399,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1059,ENC-9688,PAT-1399,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1060,ENC-9689,PAT-1400,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1061,ENC-9689,PAT-1400,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+1062,ENC-9690,PAT-1401,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1063,ENC-9691,PAT-1402,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+1064,ENC-9692,PAT-1403,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1065,ENC-9692,PAT-1403,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+1066,ENC-9693,PAT-1405,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1067,ENC-9694,PAT-1406,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1068,ENC-9695,PAT-1407,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+1069,ENC-9695,PAT-1407,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+1070,ENC-9696,PAT-1407,I10,Hypertension,Essential (primary) hypertension,True
+1071,ENC-9697,PAT-1409,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+1072,ENC-9697,PAT-1409,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+1073,ENC-9698,PAT-1409,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1074,ENC-9699,PAT-1410,R53.83,Fatigue & Malaise,Other fatigue,True
+1075,ENC-9700,PAT-1411,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1076,ENC-9700,PAT-1411,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+1077,ENC-9701,PAT-1412,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+1078,ENC-9701,PAT-1412,I10,Hypertension,Essential (primary) hypertension,False
+1079,ENC-9702,PAT-1413,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1080,ENC-9703,PAT-1414,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1081,ENC-9703,PAT-1414,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+1082,ENC-9704,PAT-1414,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1083,ENC-9704,PAT-1414,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+1084,ENC-9705,PAT-1415,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+1085,ENC-9705,PAT-1415,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+1086,ENC-9706,PAT-1415,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1087,ENC-9706,PAT-1415,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+1088,ENC-9707,PAT-1415,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+1089,ENC-9707,PAT-1415,M54.5,Low Back Pain,Low back pain,False
+1090,ENC-9708,PAT-1416,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1091,ENC-9709,PAT-1417,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1092,ENC-9710,PAT-1418,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+1093,ENC-9710,PAT-1418,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+1094,ENC-9711,PAT-1418,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1095,ENC-9711,PAT-1418,R53.83,Fatigue & Malaise,Other fatigue,False
+1096,ENC-9712,PAT-1419,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1097,ENC-9712,PAT-1419,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+1098,ENC-9713,PAT-1419,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1099,ENC-9713,PAT-1419,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+1100,ENC-9714,PAT-1420,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1101,ENC-9714,PAT-1420,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+1102,ENC-9715,PAT-1420,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1103,ENC-9716,PAT-1420,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1104,ENC-9716,PAT-1420,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+1105,ENC-9717,PAT-1421,R53.83,Fatigue & Malaise,Other fatigue,True
+1106,ENC-9717,PAT-1421,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+1107,ENC-9718,PAT-1422,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1108,ENC-9718,PAT-1422,K50.90,Crohn's Disease,"Crohn's disease, unspecified",False
+1109,ENC-9719,PAT-1423,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1110,ENC-9719,PAT-1423,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+1111,ENC-9720,PAT-1423,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1112,ENC-9721,PAT-1424,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1113,ENC-9722,PAT-1426,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1114,ENC-9723,PAT-1427,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+1115,ENC-9723,PAT-1427,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+1116,ENC-9724,PAT-1428,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+1117,ENC-9725,PAT-1428,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1118,ENC-9726,PAT-1429,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1119,ENC-9727,PAT-1430,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1120,ENC-9728,PAT-1430,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1121,ENC-9728,PAT-1430,G20,Parkinson's Disease,Parkinson's disease,False
+1122,ENC-9729,PAT-1431,E86.0,Dehydration,Dehydration,True
+1123,ENC-9729,PAT-1431,R53.83,Fatigue & Malaise,Other fatigue,False
+1124,ENC-9730,PAT-1432,I10,Hypertension,Essential (primary) hypertension,True
+1125,ENC-9730,PAT-1432,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+1126,ENC-9731,PAT-1432,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1127,ENC-9731,PAT-1432,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+1128,ENC-9732,PAT-1433,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1129,ENC-9733,PAT-1433,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1130,ENC-9733,PAT-1433,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+1131,ENC-9734,PAT-1434,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+1132,ENC-9735,PAT-1434,R53.83,Fatigue & Malaise,Other fatigue,True
+1133,ENC-9736,PAT-1435,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+1134,ENC-9736,PAT-1435,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+1135,ENC-9737,PAT-1436,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1136,ENC-9737,PAT-1436,R53.83,Fatigue & Malaise,Other fatigue,False
+1137,ENC-9738,PAT-1437,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1138,ENC-9738,PAT-1437,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+1139,ENC-9739,PAT-1437,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1140,ENC-9740,PAT-1437,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1141,ENC-9740,PAT-1437,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+1142,ENC-9741,PAT-1438,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1143,ENC-9742,PAT-1439,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+1144,ENC-9743,PAT-1439,I10,Hypertension,Essential (primary) hypertension,True
+1145,ENC-9743,PAT-1439,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+1146,ENC-9744,PAT-1439,S72.001A,Femur Fracture,Fracture of head of right femur,True
+1147,ENC-9744,PAT-1439,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+1148,ENC-9745,PAT-1439,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+1149,ENC-9746,PAT-1440,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1150,ENC-9747,PAT-1440,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1151,ENC-9748,PAT-1441,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1152,ENC-9749,PAT-1441,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1153,ENC-9750,PAT-1441,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1154,ENC-9751,PAT-1442,E86.0,Dehydration,Dehydration,True
+1155,ENC-9752,PAT-1443,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1156,ENC-9752,PAT-1443,K50.90,Crohn's Disease,"Crohn's disease, unspecified",False
+1157,ENC-9753,PAT-1443,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+1158,ENC-9754,PAT-1444,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1159,ENC-9755,PAT-1446,R53.83,Fatigue & Malaise,Other fatigue,True
+1160,ENC-9756,PAT-1446,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1161,ENC-9757,PAT-1448,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1162,ENC-9757,PAT-1448,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+1163,ENC-9758,PAT-1448,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1164,ENC-9759,PAT-1449,I10,Hypertension,Essential (primary) hypertension,True
+1165,ENC-9760,PAT-1449,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1166,ENC-9760,PAT-1449,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+1167,ENC-9761,PAT-1449,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1168,ENC-9761,PAT-1449,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+1169,ENC-9762,PAT-1450,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1170,ENC-9763,PAT-1451,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1171,ENC-9763,PAT-1451,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+1172,ENC-9764,PAT-1451,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1173,ENC-9764,PAT-1451,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+1174,ENC-9765,PAT-1451,I10,Hypertension,Essential (primary) hypertension,True
+1175,ENC-9765,PAT-1451,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+1176,ENC-9766,PAT-1452,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1177,ENC-9767,PAT-1453,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1178,ENC-9768,PAT-1453,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1179,ENC-9769,PAT-1454,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1180,ENC-9769,PAT-1454,K50.90,Crohn's Disease,"Crohn's disease, unspecified",False
+1181,ENC-9770,PAT-1454,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1182,ENC-9771,PAT-1455,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1183,ENC-9771,PAT-1455,E86.0,Dehydration,Dehydration,False
+1184,ENC-9772,PAT-1455,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1185,ENC-9773,PAT-1456,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+1186,ENC-9774,PAT-1456,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1187,ENC-9775,PAT-1457,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+1188,ENC-9775,PAT-1457,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+1189,ENC-9776,PAT-1457,R53.83,Fatigue & Malaise,Other fatigue,True
+1190,ENC-9777,PAT-1459,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+1191,ENC-9777,PAT-1459,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+1192,ENC-9778,PAT-1460,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+1193,ENC-9779,PAT-1460,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1194,ENC-9779,PAT-1460,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+1195,ENC-9780,PAT-1461,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1196,ENC-9780,PAT-1461,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1197,ENC-9781,PAT-1461,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1198,ENC-9782,PAT-1462,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1199,ENC-9783,PAT-1462,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1200,ENC-9783,PAT-1462,I10,Hypertension,Essential (primary) hypertension,False
+1201,ENC-9784,PAT-1463,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1202,ENC-9785,PAT-1464,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1203,ENC-9786,PAT-1464,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1204,ENC-9786,PAT-1464,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+1205,ENC-9787,PAT-1465,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1206,ENC-9787,PAT-1465,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+1207,ENC-9788,PAT-1466,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1208,ENC-9789,PAT-1466,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1209,ENC-9789,PAT-1466,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+1210,ENC-9790,PAT-1467,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1211,ENC-9790,PAT-1467,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+1212,ENC-9791,PAT-1468,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1213,ENC-9791,PAT-1468,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1214,ENC-9792,PAT-1468,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1215,ENC-9792,PAT-1468,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+1216,ENC-9793,PAT-1469,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1217,ENC-9794,PAT-1470,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+1218,ENC-9794,PAT-1470,I10,Hypertension,Essential (primary) hypertension,False
+1219,ENC-9795,PAT-1470,M54.5,Low Back Pain,Low back pain,True
+1220,ENC-9796,PAT-1471,E86.0,Dehydration,Dehydration,True
+1221,ENC-9796,PAT-1471,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+1222,ENC-9797,PAT-1472,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1223,ENC-9797,PAT-1472,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+1224,ENC-9798,PAT-1472,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1225,ENC-9799,PAT-1472,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1226,ENC-9800,PAT-1472,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1227,ENC-9801,PAT-1473,G20,Parkinson's Disease,Parkinson's disease,True
+1228,ENC-9802,PAT-1474,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1229,ENC-9803,PAT-1474,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1230,ENC-9803,PAT-1474,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+1231,ENC-9804,PAT-1474,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1232,ENC-9804,PAT-1474,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+1233,ENC-9805,PAT-1475,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1234,ENC-9806,PAT-1476,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1235,ENC-9807,PAT-1477,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1236,ENC-9808,PAT-1478,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+1237,ENC-9809,PAT-1478,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1238,ENC-9809,PAT-1478,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+1239,ENC-9810,PAT-1480,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1240,ENC-9811,PAT-1480,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+1241,ENC-9812,PAT-1481,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1242,ENC-9813,PAT-1482,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1243,ENC-9814,PAT-1482,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1244,ENC-9814,PAT-1482,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+1245,ENC-9815,PAT-1483,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1246,ENC-9815,PAT-1483,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+1247,ENC-9816,PAT-1483,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1248,ENC-9817,PAT-1483,E86.0,Dehydration,Dehydration,True
+1249,ENC-9818,PAT-1484,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1250,ENC-9818,PAT-1484,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+1251,ENC-9819,PAT-1485,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1252,ENC-9820,PAT-1485,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+1253,ENC-9820,PAT-1485,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+1254,ENC-9821,PAT-1486,M54.5,Low Back Pain,Low back pain,True
+1255,ENC-9821,PAT-1486,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+1256,ENC-9822,PAT-1486,E86.0,Dehydration,Dehydration,True
+1257,ENC-9823,PAT-1487,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1258,ENC-9824,PAT-1488,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1259,ENC-9825,PAT-1489,R53.83,Fatigue & Malaise,Other fatigue,True
+1260,ENC-9826,PAT-1489,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1261,ENC-9826,PAT-1489,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+1262,ENC-9827,PAT-1489,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1263,ENC-9828,PAT-1490,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+1264,ENC-9829,PAT-1490,E86.0,Dehydration,Dehydration,True
+1265,ENC-9830,PAT-1491,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1266,ENC-9831,PAT-1491,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1267,ENC-9831,PAT-1491,I10,Hypertension,Essential (primary) hypertension,False
+1268,ENC-9832,PAT-1492,R53.83,Fatigue & Malaise,Other fatigue,True
+1269,ENC-9833,PAT-1493,G20,Parkinson's Disease,Parkinson's disease,True
+1270,ENC-9833,PAT-1493,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+1271,ENC-9834,PAT-1493,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1272,ENC-9835,PAT-1494,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1273,ENC-9836,PAT-1495,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1274,ENC-9836,PAT-1495,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+1275,ENC-9837,PAT-1496,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+1276,ENC-9837,PAT-1496,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+1277,ENC-9838,PAT-1497,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1278,ENC-9839,PAT-1498,S72.001A,Femur Fracture,Fracture of head of right femur,True
+1279,ENC-9840,PAT-1498,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+1280,ENC-9840,PAT-1498,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+1281,ENC-9841,PAT-1499,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1282,ENC-9842,PAT-1500,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1283,ENC-9843,PAT-1500,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1284,ENC-9843,PAT-1500,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+1285,ENC-9844,PAT-1500,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1286,ENC-9844,PAT-1500,M54.5,Low Back Pain,Low back pain,False
+1287,ENC-9845,PAT-1501,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1288,ENC-9846,PAT-1502,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1289,ENC-9847,PAT-1503,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1290,ENC-9847,PAT-1503,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+1291,ENC-9848,PAT-1505,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1292,ENC-9848,PAT-1505,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+1293,ENC-9849,PAT-1506,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1294,ENC-9850,PAT-1506,G20,Parkinson's Disease,Parkinson's disease,True
+1295,ENC-9850,PAT-1506,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+1296,ENC-9851,PAT-1506,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1297,ENC-9851,PAT-1506,E86.0,Dehydration,Dehydration,False
+1298,ENC-9852,PAT-1507,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+1299,ENC-9853,PAT-1507,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1300,ENC-9854,PAT-1508,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1301,ENC-9855,PAT-1508,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1302,ENC-9856,PAT-1509,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1303,ENC-9856,PAT-1509,G20,Parkinson's Disease,Parkinson's disease,False
+1304,ENC-9857,PAT-1509,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1305,ENC-9858,PAT-1510,R53.83,Fatigue & Malaise,Other fatigue,True
+1306,ENC-9858,PAT-1510,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+1307,ENC-9859,PAT-1511,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1308,ENC-9860,PAT-1512,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1309,ENC-9861,PAT-1512,E86.0,Dehydration,Dehydration,True
+1310,ENC-9862,PAT-1513,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1311,ENC-9863,PAT-1514,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+1312,ENC-9864,PAT-1514,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+1313,ENC-9864,PAT-1514,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+1314,ENC-9865,PAT-1515,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1315,ENC-9866,PAT-1515,S72.001A,Femur Fracture,Fracture of head of right femur,True
+1316,ENC-9866,PAT-1515,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+1317,ENC-9867,PAT-1516,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1318,ENC-9868,PAT-1516,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1319,ENC-9868,PAT-1516,S72.001A,Femur Fracture,Fracture of head of right femur,False
+1320,ENC-9869,PAT-1517,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1321,ENC-9870,PAT-1518,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1322,ENC-9870,PAT-1518,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+1323,ENC-9871,PAT-1519,G20,Parkinson's Disease,Parkinson's disease,True
+1324,ENC-9872,PAT-1519,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1325,ENC-9872,PAT-1519,M54.5,Low Back Pain,Low back pain,False
+1326,ENC-9873,PAT-1520,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1327,ENC-9873,PAT-1520,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+1328,ENC-9874,PAT-1520,I10,Hypertension,Essential (primary) hypertension,True
+1329,ENC-9874,PAT-1520,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+1330,ENC-9875,PAT-1521,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1331,ENC-9875,PAT-1521,R50.9,Pyrexia (Fever),"Fever, unspecified",False
+1332,ENC-9876,PAT-1522,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1333,ENC-9877,PAT-1522,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1334,ENC-9878,PAT-1523,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1335,ENC-9879,PAT-1523,I10,Hypertension,Essential (primary) hypertension,True
+1336,ENC-9880,PAT-1524,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1337,ENC-9881,PAT-1525,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1338,ENC-9881,PAT-1525,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+1339,ENC-9882,PAT-1526,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1340,ENC-9883,PAT-1528,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1341,ENC-9884,PAT-1528,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1342,ENC-9885,PAT-1529,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1343,ENC-9885,PAT-1529,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+1344,ENC-9886,PAT-1529,R53.83,Fatigue & Malaise,Other fatigue,True
+1345,ENC-9887,PAT-1529,M54.5,Low Back Pain,Low back pain,True
+1346,ENC-9887,PAT-1529,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+1347,ENC-9888,PAT-1530,I10,Hypertension,Essential (primary) hypertension,True
+1348,ENC-9889,PAT-1530,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1349,ENC-9890,PAT-1531,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1350,ENC-9891,PAT-1531,S72.001A,Femur Fracture,Fracture of head of right femur,True
+1351,ENC-9892,PAT-1532,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1352,ENC-9892,PAT-1532,M54.5,Low Back Pain,Low back pain,False
+1353,ENC-9893,PAT-1532,G20,Parkinson's Disease,Parkinson's disease,True
+1354,ENC-9894,PAT-1533,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1355,ENC-9894,PAT-1533,M54.5,Low Back Pain,Low back pain,False
+1356,ENC-9895,PAT-1534,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+1357,ENC-9895,PAT-1534,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+1358,ENC-9896,PAT-1535,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+1359,ENC-9897,PAT-1536,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1360,ENC-9897,PAT-1536,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+1361,ENC-9898,PAT-1536,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1362,ENC-9899,PAT-1537,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1363,ENC-9899,PAT-1537,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+1364,ENC-9900,PAT-1537,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+1365,ENC-9900,PAT-1537,K50.90,Crohn's Disease,"Crohn's disease, unspecified",False
+1366,ENC-9901,PAT-1538,S72.001A,Femur Fracture,Fracture of head of right femur,True
+1367,ENC-9901,PAT-1538,M54.5,Low Back Pain,Low back pain,False
+1368,ENC-9902,PAT-1538,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+1369,ENC-9903,PAT-1539,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1370,ENC-9904,PAT-1539,G20,Parkinson's Disease,Parkinson's disease,True
+1371,ENC-9904,PAT-1539,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+1372,ENC-9905,PAT-1539,I10,Hypertension,Essential (primary) hypertension,True
+1373,ENC-9906,PAT-1540,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1374,ENC-9906,PAT-1540,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+1375,ENC-9907,PAT-1541,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1376,ENC-9907,PAT-1541,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1377,ENC-9908,PAT-1542,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1378,ENC-9908,PAT-1542,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+1379,ENC-9909,PAT-1542,G20,Parkinson's Disease,Parkinson's disease,True
+1380,ENC-9910,PAT-1543,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1381,ENC-9910,PAT-1543,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+1382,ENC-9911,PAT-1543,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1383,ENC-9911,PAT-1543,E86.0,Dehydration,Dehydration,False
+1384,ENC-9912,PAT-1544,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1385,ENC-9913,PAT-1545,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1386,ENC-9914,PAT-1546,E86.0,Dehydration,Dehydration,True
+1387,ENC-9915,PAT-1548,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1388,ENC-9915,PAT-1548,K50.90,Crohn's Disease,"Crohn's disease, unspecified",False
+1389,ENC-9916,PAT-1549,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+1390,ENC-9917,PAT-1549,E86.0,Dehydration,Dehydration,True
+1391,ENC-9917,PAT-1549,R53.83,Fatigue & Malaise,Other fatigue,False
+1392,ENC-9918,PAT-1550,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1393,ENC-9918,PAT-1550,R53.83,Fatigue & Malaise,Other fatigue,False
+1394,ENC-9919,PAT-1551,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+1395,ENC-9920,PAT-1551,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1396,ENC-9920,PAT-1551,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+1397,ENC-9921,PAT-1552,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1398,ENC-9922,PAT-1553,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1399,ENC-9923,PAT-1553,M54.5,Low Back Pain,Low back pain,True
+1400,ENC-9924,PAT-1555,R53.83,Fatigue & Malaise,Other fatigue,True
+1401,ENC-9925,PAT-1556,R53.83,Fatigue & Malaise,Other fatigue,True
+1402,ENC-9926,PAT-1556,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1403,ENC-9926,PAT-1556,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+1404,ENC-9927,PAT-1556,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+1405,ENC-9928,PAT-1557,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1406,ENC-9928,PAT-1557,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1407,ENC-9929,PAT-1557,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1408,ENC-9929,PAT-1557,I10,Hypertension,Essential (primary) hypertension,False
+1409,ENC-9930,PAT-1558,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+1410,ENC-9930,PAT-1558,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+1411,ENC-9931,PAT-1558,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1412,ENC-9932,PAT-1558,I10,Hypertension,Essential (primary) hypertension,True
+1413,ENC-9933,PAT-1559,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1414,ENC-9934,PAT-1559,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1415,ENC-9935,PAT-1560,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1416,ENC-9936,PAT-1561,M54.5,Low Back Pain,Low back pain,True
+1417,ENC-9937,PAT-1562,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1418,ENC-9938,PAT-1562,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1419,ENC-9939,PAT-1563,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+1420,ENC-9940,PAT-1564,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1421,ENC-9940,PAT-1564,R53.83,Fatigue & Malaise,Other fatigue,False
+1422,ENC-9941,PAT-1564,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1423,ENC-9941,PAT-1564,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+1424,ENC-9942,PAT-1564,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+1425,ENC-9943,PAT-1564,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1426,ENC-9943,PAT-1564,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+1427,ENC-9944,PAT-1565,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1428,ENC-9945,PAT-1566,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1429,ENC-9946,PAT-1566,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1430,ENC-9947,PAT-1567,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1431,ENC-9947,PAT-1567,A41.9,Sepsis,"Sepsis, unspecified organism",False
+1432,ENC-9948,PAT-1567,S72.001A,Femur Fracture,Fracture of head of right femur,True
+1433,ENC-9949,PAT-1568,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1434,ENC-9950,PAT-1569,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1435,ENC-9951,PAT-1570,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1436,ENC-9952,PAT-1571,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+1437,ENC-9953,PAT-1572,M54.5,Low Back Pain,Low back pain,True
+1438,ENC-9954,PAT-1572,G20,Parkinson's Disease,Parkinson's disease,True
+1439,ENC-9955,PAT-1572,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1440,ENC-9956,PAT-1573,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1441,ENC-9957,PAT-1573,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+1442,ENC-9957,PAT-1573,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+1443,ENC-9958,PAT-1574,I10,Hypertension,Essential (primary) hypertension,True
+1444,ENC-9958,PAT-1574,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+1445,ENC-9959,PAT-1574,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+1446,ENC-9960,PAT-1574,E86.0,Dehydration,Dehydration,True
+1447,ENC-9960,PAT-1574,R53.83,Fatigue & Malaise,Other fatigue,False
+1448,ENC-9961,PAT-1574,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1449,ENC-9961,PAT-1574,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",False
+1450,ENC-9962,PAT-1575,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1451,ENC-9962,PAT-1575,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+1452,ENC-9963,PAT-1576,R53.83,Fatigue & Malaise,Other fatigue,True
+1453,ENC-9964,PAT-1577,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+1454,ENC-9964,PAT-1577,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+1455,ENC-9965,PAT-1578,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1456,ENC-9966,PAT-1578,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+1457,ENC-9966,PAT-1578,M54.5,Low Back Pain,Low back pain,False
+1458,ENC-9967,PAT-1578,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1459,ENC-9968,PAT-1578,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+1460,ENC-9968,PAT-1578,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+1461,ENC-9969,PAT-1579,S72.001A,Femur Fracture,Fracture of head of right femur,True
+1462,ENC-9970,PAT-1580,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1463,ENC-9970,PAT-1580,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+1464,ENC-9971,PAT-1581,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+1465,ENC-9972,PAT-1581,M54.5,Low Back Pain,Low back pain,True
+1466,ENC-9973,PAT-1582,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+1467,ENC-9974,PAT-1582,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1468,ENC-9974,PAT-1582,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1469,ENC-9975,PAT-1582,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1470,ENC-9976,PAT-1583,G20,Parkinson's Disease,Parkinson's disease,True
+1471,ENC-9977,PAT-1583,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+1472,ENC-9977,PAT-1583,I50.9,Heart Failure,"Congestive heart failure, unspecified",False
+1473,ENC-9978,PAT-1583,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1474,ENC-9979,PAT-1584,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1475,ENC-9980,PAT-1585,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,True
+1476,ENC-9981,PAT-1586,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1477,ENC-9981,PAT-1586,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,False
+1478,ENC-9982,PAT-1587,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1479,ENC-9982,PAT-1587,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",False
+1480,ENC-9983,PAT-1587,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1481,ENC-9984,PAT-1587,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1482,ENC-9984,PAT-1587,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+1483,ENC-9985,PAT-1588,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1484,ENC-9986,PAT-1588,I10,Hypertension,Essential (primary) hypertension,True
+1485,ENC-9986,PAT-1588,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+1486,ENC-9987,PAT-1589,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1487,ENC-9987,PAT-1589,E86.0,Dehydration,Dehydration,False
+1488,ENC-9988,PAT-1590,R53.83,Fatigue & Malaise,Other fatigue,True
+1489,ENC-9989,PAT-1591,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,True
+1490,ENC-9989,PAT-1591,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+1491,ENC-9990,PAT-1592,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1492,ENC-9990,PAT-1592,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",False
+1493,ENC-9991,PAT-1593,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1494,ENC-9991,PAT-1593,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+1495,ENC-9992,PAT-1594,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1496,ENC-9992,PAT-1594,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+1497,ENC-9993,PAT-1595,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1498,ENC-9994,PAT-1595,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1499,ENC-9994,PAT-1595,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+1500,ENC-9995,PAT-1595,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1501,ENC-9995,PAT-1595,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+1502,ENC-9996,PAT-1596,M54.5,Low Back Pain,Low back pain,True
+1503,ENC-9996,PAT-1596,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",False
+1504,ENC-9997,PAT-1597,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1505,ENC-9997,PAT-1597,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+1506,ENC-9998,PAT-1597,G20,Parkinson's Disease,Parkinson's disease,True
+1507,ENC-9999,PAT-1598,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1508,ENC-9999,PAT-1598,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+1509,ENC-10000,PAT-1599,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1510,ENC-10000,PAT-1599,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+1511,ENC-10001,PAT-1599,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1512,ENC-10002,PAT-1600,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1513,ENC-10002,PAT-1600,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",False
+1514,ENC-10003,PAT-1600,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1515,ENC-10003,PAT-1600,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+1516,ENC-10004,PAT-1600,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+1517,ENC-10004,PAT-1600,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,False
+1518,ENC-10005,PAT-1601,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1519,ENC-10006,PAT-1601,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1520,ENC-10007,PAT-1602,M54.5,Low Back Pain,Low back pain,True
+1521,ENC-10007,PAT-1602,M25.511,Shoulder Arthropathy,Pain in right shoulder,False
+1522,ENC-10008,PAT-1602,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1523,ENC-10009,PAT-1603,K50.90,Crohn's Disease,"Crohn's disease, unspecified",True
+1524,ENC-10009,PAT-1603,K74.60,Cirrhosis,Unspecified cirrhosis of liver,False
+1525,ENC-10010,PAT-1603,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1526,ENC-10011,PAT-1604,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1527,ENC-10011,PAT-1604,E11.65,Diabetic Hyperglycemia,Type 2 diabetes with hyperglycemia,False
+1528,ENC-10012,PAT-1604,K21.9,GERD,Gastro-esophageal reflux disease without esophagitis,True
+1529,ENC-10013,PAT-1604,G20,Parkinson's Disease,Parkinson's disease,True
+1530,ENC-10014,PAT-1605,I10,Hypertension,Essential (primary) hypertension,True
+1531,ENC-10015,PAT-1605,E86.0,Dehydration,Dehydration,True
+1532,ENC-10016,PAT-1607,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1533,ENC-10017,PAT-1608,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1534,ENC-10017,PAT-1608,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+1535,ENC-10018,PAT-1609,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+1536,ENC-10018,PAT-1609,I10,Hypertension,Essential (primary) hypertension,False
+1537,ENC-10019,PAT-1609,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1538,ENC-10019,PAT-1609,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+1539,ENC-10020,PAT-1610,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1540,ENC-10021,PAT-1611,I48.91,Arrhythmia,Unspecified atrial fibrillation,True
+1541,ENC-10021,PAT-1611,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+1542,ENC-10022,PAT-1612,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1543,ENC-10023,PAT-1614,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1544,ENC-10024,PAT-1614,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1545,ENC-10025,PAT-1615,R53.83,Fatigue & Malaise,Other fatigue,True
+1546,ENC-10025,PAT-1615,A41.9,Sepsis,"Sepsis, unspecified organism",False
+1547,ENC-10026,PAT-1616,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1548,ENC-10027,PAT-1616,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+1549,ENC-10027,PAT-1616,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",False
+1550,ENC-10028,PAT-1616,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,True
+1551,ENC-10029,PAT-1617,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1552,ENC-10030,PAT-1617,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1553,ENC-10031,PAT-1618,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+1554,ENC-10032,PAT-1618,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1555,ENC-10032,PAT-1618,R53.83,Fatigue & Malaise,Other fatigue,False
+1556,ENC-10033,PAT-1619,M17.9,Osteoarthritis,"Osteoarthritis of knee, unspecified",True
+1557,ENC-10034,PAT-1619,M25.511,Shoulder Arthropathy,Pain in right shoulder,True
+1558,ENC-10034,PAT-1619,M54.5,Low Back Pain,Low back pain,False
+1559,ENC-10035,PAT-1621,R53.83,Fatigue & Malaise,Other fatigue,True
+1560,ENC-10035,PAT-1621,E86.0,Dehydration,Dehydration,False
+1561,ENC-10036,PAT-1622,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1562,ENC-10037,PAT-1623,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1563,ENC-10038,PAT-1623,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1564,ENC-10039,PAT-1624,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1565,ENC-10039,PAT-1624,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1566,ENC-10040,PAT-1625,K74.60,Cirrhosis,Unspecified cirrhosis of liver,True
+1567,ENC-10041,PAT-1625,C18.9,Colorectal Neoplasm,"Malignant neoplasm of colon, unspecified",True
+1568,ENC-10042,PAT-1626,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1569,ENC-10042,PAT-1626,C50.919,Breast Neoplasm,Malignant neoplasm of unspecified site of female breast,False
+1570,ENC-10043,PAT-1626,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,True
+1571,ENC-10044,PAT-1627,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1572,ENC-10045,PAT-1627,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1573,ENC-10045,PAT-1627,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1574,ENC-10046,PAT-1627,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1575,ENC-10047,PAT-1628,E03.9,Hypothyroidism,"Hypothyroidism, unspecified",True
+1576,ENC-10047,PAT-1628,E11.9,Type 2 Diabetes,Type 2 diabetes mellitus without complications,False
+1577,ENC-10048,PAT-1628,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1578,ENC-10048,PAT-1628,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+1579,ENC-10049,PAT-1629,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1580,ENC-10050,PAT-1629,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",True
+1581,ENC-10050,PAT-1629,G20,Parkinson's Disease,Parkinson's disease,False
+1582,ENC-10051,PAT-1629,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+1583,ENC-10051,PAT-1629,I10,Hypertension,Essential (primary) hypertension,False
+1584,ENC-10052,PAT-1630,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1585,ENC-10052,PAT-1630,A41.9,Sepsis,"Sepsis, unspecified organism",False
+1586,ENC-10053,PAT-1630,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1587,ENC-10054,PAT-1630,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1588,ENC-10054,PAT-1630,C34.90,Lung Neoplasm,Malignant neoplasm of unspecified part of bronchus/lung,False
+1589,ENC-10055,PAT-1631,G20,Parkinson's Disease,Parkinson's disease,True
+1590,ENC-10056,PAT-1633,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1591,ENC-10057,PAT-1634,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1592,ENC-10057,PAT-1634,G20,Parkinson's Disease,Parkinson's disease,False
+1593,ENC-10058,PAT-1634,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1594,ENC-10058,PAT-1634,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1595,ENC-10059,PAT-1634,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1596,ENC-10060,PAT-1635,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1597,ENC-10060,PAT-1635,G43.909,Migraine,"Migraine, unspecified, not intractable",False
+1598,ENC-10061,PAT-1635,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1599,ENC-10062,PAT-1636,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1600,ENC-10063,PAT-1636,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",True
+1601,ENC-10063,PAT-1636,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",False
+1602,ENC-10064,PAT-1636,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1603,ENC-10065,PAT-1637,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1604,ENC-10066,PAT-1638,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1605,ENC-10066,PAT-1638,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+1606,ENC-10067,PAT-1638,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1607,ENC-10067,PAT-1638,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+1608,ENC-10068,PAT-1639,E66.01,Morbid Obesity,Morbid (severe) obesity due to excess calories,True
+1609,ENC-10069,PAT-1639,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1610,ENC-10069,PAT-1639,G20,Parkinson's Disease,Parkinson's disease,False
+1611,ENC-10070,PAT-1640,J18.9,Pneumonia,"Pneumonia, unspecified organism",True
+1612,ENC-10070,PAT-1640,J45.909,Asthma,"Unspecified asthma, uncomplicated",False
+1613,ENC-10071,PAT-1641,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",True
+1614,ENC-10072,PAT-1642,J44.9,COPD,"Chronic obstructive pulmonary disease, unspecified",True
+1615,ENC-10072,PAT-1642,J18.9,Pneumonia,"Pneumonia, unspecified organism",False
+1616,ENC-10073,PAT-1643,R50.9,Pyrexia (Fever),"Fever, unspecified",True
+1617,ENC-10073,PAT-1643,E86.0,Dehydration,Dehydration,False
+1618,ENC-10074,PAT-1643,K29.70,Gastritis,"Gastritis, unspecified, without bleeding",True
+1619,ENC-10075,PAT-1643,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1620,ENC-10076,PAT-1644,G20,Parkinson's Disease,Parkinson's disease,True
+1621,ENC-10076,PAT-1644,G40.909,Epilepsy,"Epilepsy, unspecified, not intractable",False
+1622,ENC-10077,PAT-1644,S72.001A,Femur Fracture,Fracture of head of right femur,True
+1623,ENC-10078,PAT-1645,G43.909,Migraine,"Migraine, unspecified, not intractable",True
+1624,ENC-10078,PAT-1645,I63.9,Cerebrovascular Stroke,"Cerebral infarction, unspecified",False
+1625,ENC-10079,PAT-1646,I50.9,Heart Failure,"Congestive heart failure, unspecified",True
+1626,ENC-10080,PAT-1647,C92.00,Acute Myeloid Leukemia,"Acute myeloblastic leukemia, not in remission",True
+1627,ENC-10081,PAT-1648,J45.909,Asthma,"Unspecified asthma, uncomplicated",True
+1628,ENC-10081,PAT-1648,J96.00,Respiratory Failure,"Acute respiratory failure, unspecified",False
+1629,ENC-10082,PAT-1648,E86.0,Dehydration,Dehydration,True
+1630,ENC-10082,PAT-1648,A41.9,Sepsis,"Sepsis, unspecified organism",False
+1631,ENC-10083,PAT-1649,A41.9,Sepsis,"Sepsis, unspecified organism",True
+1632,ENC-10084,PAT-1649,R53.83,Fatigue & Malaise,Other fatigue,True
+1633,ENC-10085,PAT-1650,I20.9,Coronary Artery Disease,"Angina pectoris, unspecified",True
+1634,ENC-10085,PAT-1650,I48.91,Arrhythmia,Unspecified atrial fibrillation,False
+1635,ENC-10086,PAT-1650,R50.9,Pyrexia (Fever),"Fever, unspecified",True

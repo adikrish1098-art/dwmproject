@@ -1,0 +1,1087 @@
+id,encounter_id,procedure_name,procedure_category,cost,performed_date
+1,ENC-9001,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-04-21 00:00:00
+2,ENC-9002,Total Knee Arthroplasty,Surgical,7800.0,2025-06-16 00:00:00
+3,ENC-9003,Spine Fluoroscopic Injection,Interventional,1400.0,2025-08-17 00:00:00
+4,ENC-9004,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-12-12 00:00:00
+5,ENC-9005,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-09-25 00:00:00
+6,ENC-9006,Spine Fluoroscopic Injection,Interventional,1400.0,2025-02-06 00:00:00
+7,ENC-9007,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-04-02 00:00:00
+8,ENC-9008,Holter Monitor 24-hr,Monitoring,350.0,2025-06-04 00:00:00
+9,ENC-9009,Electroencephalogram (EEG),Diagnostic,780.0,2026-04-14 00:00:00
+10,ENC-9010,Electroencephalogram (EEG),Diagnostic,780.0,2025-06-22 00:00:00
+11,ENC-9011,Bone Marrow Biopsy,Pathology,1950.0,2025-07-24 00:00:00
+12,ENC-9012,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-08-29 00:00:00
+13,ENC-9013,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-05-17 00:00:00
+14,ENC-9014,Bronchoscopy with Wash,Endoscopic,1850.0,2026-06-01 00:00:00
+15,ENC-9015,Holter Monitor 24-hr,Monitoring,350.0,2026-07-27 00:00:00
+16,ENC-9016,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-04-14 00:00:00
+17,ENC-9017,Brain MRI with Contrast,Radiology,2100.0,2026-01-02 00:00:00
+18,ENC-9018,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-03-30 00:00:00
+19,ENC-9019,Brain MRI with Contrast,Radiology,2100.0,2026-06-10 00:00:00
+20,ENC-9020,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-03-25 00:00:00
+21,ENC-9021,Echocardiogram 2D,Diagnostic,650.0,2025-04-26 00:00:00
+22,ENC-9022,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-02-26 00:00:00
+23,ENC-9023,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-05-09 00:00:00
+24,ENC-9024,Bronchoscopy with Wash,Endoscopic,1850.0,2026-07-27 00:00:00
+25,ENC-9025,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-04-04 00:00:00
+26,ENC-9026,Bronchoscopy with Wash,Endoscopic,1850.0,2026-05-20 00:00:00
+27,ENC-9027,Pulmonary Function Testing,Diagnostic,420.0,2026-04-09 00:00:00
+28,ENC-9028,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-02-24 00:00:00
+29,ENC-9029,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-04-13 00:00:00
+30,ENC-9030,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-07-01 00:00:00
+31,ENC-9031,Bone Marrow Biopsy,Pathology,1950.0,2025-10-18 00:00:00
+32,ENC-9032,Bone Marrow Biopsy,Pathology,1950.0,2025-07-02 00:00:00
+33,ENC-9033,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-10-09 00:00:00
+34,ENC-9034,Pulmonary Function Testing,Diagnostic,420.0,2026-04-09 00:00:00
+35,ENC-9035,Spine Fluoroscopic Injection,Interventional,1400.0,2025-09-15 00:00:00
+36,ENC-9036,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-06-27 00:00:00
+37,ENC-9037,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-11-05 00:00:00
+38,ENC-9038,Bone Marrow Biopsy,Pathology,1950.0,2025-08-07 00:00:00
+39,ENC-9039,Holter Monitor 24-hr,Monitoring,350.0,2025-10-23 00:00:00
+40,ENC-9040,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-05-14 00:00:00
+41,ENC-9041,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-08-07 00:00:00
+42,ENC-9042,Electroencephalogram (EEG),Diagnostic,780.0,2025-02-25 00:00:00
+43,ENC-9043,Holter Monitor 24-hr,Monitoring,350.0,2025-05-02 00:00:00
+44,ENC-9044,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-03-25 00:00:00
+45,ENC-9045,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-06-16 00:00:00
+46,ENC-9046,Abdominal Ultrasound,Radiology,480.0,2025-08-15 00:00:00
+47,ENC-9047,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-05-14 00:00:00
+48,ENC-9048,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-08-15 00:00:00
+49,ENC-9049,Digital Bone Radiography,Radiology,280.0,2025-12-10 00:00:00
+50,ENC-9050,Echocardiogram 2D,Diagnostic,650.0,2025-12-31 00:00:00
+51,ENC-9051,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-05-29 00:00:00
+52,ENC-9052,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-05-11 00:00:00
+53,ENC-9053,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-07-30 00:00:00
+54,ENC-9054,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-06-28 00:00:00
+55,ENC-9055,Brain MRI with Contrast,Radiology,2100.0,2025-01-07 00:00:00
+56,ENC-9056,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-04-16 00:00:00
+57,ENC-9057,Brain MRI with Contrast,Radiology,2100.0,2025-06-14 00:00:00
+58,ENC-9058,Spine Fluoroscopic Injection,Interventional,1400.0,2025-10-18 00:00:00
+59,ENC-9059,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-12-02 00:00:00
+60,ENC-9060,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-06-01 00:00:00
+61,ENC-9061,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-07-25 00:00:00
+62,ENC-9062,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-09-20 00:00:00
+63,ENC-9063,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-06-08 00:00:00
+64,ENC-9064,Abdominal Ultrasound,Radiology,480.0,2026-05-11 00:00:00
+65,ENC-9065,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-02-15 00:00:00
+66,ENC-9066,Abdominal Ultrasound,Radiology,480.0,2025-03-07 00:00:00
+67,ENC-9067,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-07-26 00:00:00
+68,ENC-9068,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-02-14 00:00:00
+69,ENC-9069,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-03-08 00:00:00
+70,ENC-9070,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-04-30 00:00:00
+71,ENC-9071,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-09-22 00:00:00
+72,ENC-9072,Digital Bone Radiography,Radiology,280.0,2025-12-17 00:00:00
+73,ENC-9073,Total Knee Arthroplasty,Surgical,7800.0,2026-01-01 00:00:00
+74,ENC-9074,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-01-22 00:00:00
+75,ENC-9075,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-10-14 00:00:00
+76,ENC-9076,Echocardiogram 2D,Diagnostic,650.0,2026-04-17 00:00:00
+77,ENC-9077,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-07-08 00:00:00
+78,ENC-9078,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-08-30 00:00:00
+79,ENC-9079,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-12-14 00:00:00
+80,ENC-9080,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-04-09 00:00:00
+81,ENC-9081,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-07-10 00:00:00
+82,ENC-9082,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-12-12 00:00:00
+83,ENC-9083,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-03-10 00:00:00
+84,ENC-9084,Electroencephalogram (EEG),Diagnostic,780.0,2025-03-23 00:00:00
+85,ENC-9085,Bronchoscopy with Wash,Endoscopic,1850.0,2025-05-23 00:00:00
+86,ENC-9086,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-05-03 00:00:00
+87,ENC-9087,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-08-21 00:00:00
+88,ENC-9088,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-05-19 00:00:00
+89,ENC-9089,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-08-23 00:00:00
+90,ENC-9090,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-09-15 00:00:00
+91,ENC-9091,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-01-23 00:00:00
+92,ENC-9092,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-03-22 00:00:00
+93,ENC-9093,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-05-09 00:00:00
+94,ENC-9094,Spine Fluoroscopic Injection,Interventional,1400.0,2026-01-30 00:00:00
+95,ENC-9095,Electroencephalogram (EEG),Diagnostic,780.0,2026-05-01 00:00:00
+96,ENC-9096,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-03-21 00:00:00
+97,ENC-9097,Echocardiogram 2D,Diagnostic,650.0,2025-06-11 00:00:00
+98,ENC-9098,Total Knee Arthroplasty,Surgical,7800.0,2025-07-01 00:00:00
+99,ENC-9099,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-12-23 00:00:00
+100,ENC-9100,Bone Marrow Biopsy,Pathology,1950.0,2026-01-16 00:00:00
+101,ENC-9101,Bronchoscopy with Wash,Endoscopic,1850.0,2025-11-26 00:00:00
+102,ENC-9102,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-09-20 00:00:00
+103,ENC-9103,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-10-31 00:00:00
+104,ENC-9104,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-08-25 00:00:00
+105,ENC-9105,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-06-20 00:00:00
+106,ENC-9106,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-08-17 00:00:00
+107,ENC-9107,Total Knee Arthroplasty,Surgical,7800.0,2025-11-06 00:00:00
+108,ENC-9108,Total Knee Arthroplasty,Surgical,7800.0,2025-12-11 00:00:00
+109,ENC-9109,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-02-22 00:00:00
+110,ENC-9110,Holter Monitor 24-hr,Monitoring,350.0,2025-05-04 00:00:00
+111,ENC-9111,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-07-07 00:00:00
+112,ENC-9112,Bone Marrow Biopsy,Pathology,1950.0,2025-11-02 00:00:00
+113,ENC-9113,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-07-22 00:00:00
+114,ENC-9114,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-01-30 00:00:00
+115,ENC-9115,Bone Marrow Biopsy,Pathology,1950.0,2025-10-22 00:00:00
+116,ENC-9116,Electroencephalogram (EEG),Diagnostic,780.0,2025-11-27 00:00:00
+117,ENC-9117,Echocardiogram 2D,Diagnostic,650.0,2025-01-09 00:00:00
+118,ENC-9118,Brain MRI with Contrast,Radiology,2100.0,2025-01-27 00:00:00
+119,ENC-9119,Echocardiogram 2D,Diagnostic,650.0,2025-05-26 00:00:00
+120,ENC-9120,Abdominal Ultrasound,Radiology,480.0,2025-06-08 00:00:00
+121,ENC-9121,Total Knee Arthroplasty,Surgical,7800.0,2025-08-21 00:00:00
+122,ENC-9122,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-11-17 00:00:00
+123,ENC-9123,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-05-02 00:00:00
+124,ENC-9124,Total Knee Arthroplasty,Surgical,7800.0,2025-05-16 00:00:00
+125,ENC-9125,Brain MRI with Contrast,Radiology,2100.0,2025-07-30 00:00:00
+126,ENC-9126,Total Knee Arthroplasty,Surgical,7800.0,2025-07-27 00:00:00
+127,ENC-9127,Pulmonary Function Testing,Diagnostic,420.0,2025-02-09 00:00:00
+128,ENC-9128,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-03-27 00:00:00
+129,ENC-9129,Pulmonary Function Testing,Diagnostic,420.0,2026-05-28 00:00:00
+130,ENC-9130,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-11-28 00:00:00
+131,ENC-9131,Electroencephalogram (EEG),Diagnostic,780.0,2025-06-03 00:00:00
+132,ENC-9132,Abdominal Ultrasound,Radiology,480.0,2025-07-27 00:00:00
+133,ENC-9133,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-08-31 00:00:00
+134,ENC-9134,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-11-02 00:00:00
+135,ENC-9135,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-01-18 00:00:00
+136,ENC-9136,Holter Monitor 24-hr,Monitoring,350.0,2025-08-03 00:00:00
+137,ENC-9137,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-05-24 00:00:00
+138,ENC-9138,Digital Bone Radiography,Radiology,280.0,2026-09-02 00:00:00
+139,ENC-9139,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-01-07 00:00:00
+140,ENC-9140,Bone Marrow Biopsy,Pathology,1950.0,2025-01-27 00:00:00
+141,ENC-9141,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-02-24 00:00:00
+142,ENC-9142,Echocardiogram 2D,Diagnostic,650.0,2025-11-12 00:00:00
+143,ENC-9143,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-01-26 00:00:00
+144,ENC-9144,Electroencephalogram (EEG),Diagnostic,780.0,2025-12-02 00:00:00
+145,ENC-9145,Pulmonary Function Testing,Diagnostic,420.0,2025-02-15 00:00:00
+146,ENC-9146,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-06-05 00:00:00
+147,ENC-9147,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-06-23 00:00:00
+148,ENC-9148,Pulmonary Function Testing,Diagnostic,420.0,2025-07-22 00:00:00
+149,ENC-9149,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-09-22 00:00:00
+150,ENC-9150,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-10-17 00:00:00
+151,ENC-9151,Total Knee Arthroplasty,Surgical,7800.0,2026-01-04 00:00:00
+152,ENC-9152,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-03-22 00:00:00
+153,ENC-9153,Abdominal Ultrasound,Radiology,480.0,2026-07-07 00:00:00
+154,ENC-9154,Abdominal Ultrasound,Radiology,480.0,2025-06-02 00:00:00
+155,ENC-9155,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-09-02 00:00:00
+156,ENC-9156,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-01-03 00:00:00
+157,ENC-9157,Digital Bone Radiography,Radiology,280.0,2026-01-22 00:00:00
+158,ENC-9158,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-03-28 00:00:00
+159,ENC-9159,Brain MRI with Contrast,Radiology,2100.0,2026-03-12 00:00:00
+160,ENC-9160,Digital Bone Radiography,Radiology,280.0,2026-07-04 00:00:00
+161,ENC-9161,Electroencephalogram (EEG),Diagnostic,780.0,2025-03-23 00:00:00
+162,ENC-9162,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-11-16 00:00:00
+163,ENC-9163,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-02-02 00:00:00
+164,ENC-9164,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-02-12 00:00:00
+165,ENC-9165,Electroencephalogram (EEG),Diagnostic,780.0,2025-09-25 00:00:00
+166,ENC-9166,Abdominal Ultrasound,Radiology,480.0,2025-02-25 00:00:00
+167,ENC-9167,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-06-22 00:00:00
+168,ENC-9168,Abdominal Ultrasound,Radiology,480.0,2025-12-29 00:00:00
+169,ENC-9169,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-03-29 00:00:00
+170,ENC-9170,Digital Bone Radiography,Radiology,280.0,2026-07-25 00:00:00
+171,ENC-9171,Electroencephalogram (EEG),Diagnostic,780.0,2025-05-03 00:00:00
+172,ENC-9172,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-06-18 00:00:00
+173,ENC-9173,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-09-29 00:00:00
+174,ENC-9174,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-10-11 00:00:00
+175,ENC-9175,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-12-04 00:00:00
+176,ENC-9176,Bone Marrow Biopsy,Pathology,1950.0,2026-05-09 00:00:00
+177,ENC-9177,Bronchoscopy with Wash,Endoscopic,1850.0,2026-06-05 00:00:00
+178,ENC-9178,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-08-24 00:00:00
+179,ENC-9179,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-09-12 00:00:00
+180,ENC-9180,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-09-06 00:00:00
+181,ENC-9181,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-01-02 00:00:00
+182,ENC-9182,Bronchoscopy with Wash,Endoscopic,1850.0,2025-06-27 00:00:00
+183,ENC-9183,Echocardiogram 2D,Diagnostic,650.0,2025-09-12 00:00:00
+184,ENC-9184,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-10-18 00:00:00
+185,ENC-9185,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-01-14 00:00:00
+186,ENC-9186,Spine Fluoroscopic Injection,Interventional,1400.0,2025-08-13 00:00:00
+187,ENC-9187,Holter Monitor 24-hr,Monitoring,350.0,2025-11-15 00:00:00
+188,ENC-9188,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-04-29 00:00:00
+189,ENC-9189,Total Knee Arthroplasty,Surgical,7800.0,2025-05-16 00:00:00
+190,ENC-9190,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-01-03 00:00:00
+191,ENC-9191,Total Knee Arthroplasty,Surgical,7800.0,2026-03-04 00:00:00
+192,ENC-9192,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-03-15 00:00:00
+193,ENC-9193,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-04-26 00:00:00
+194,ENC-9194,Spine Fluoroscopic Injection,Interventional,1400.0,2025-10-30 00:00:00
+195,ENC-9195,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-01-15 00:00:00
+196,ENC-9196,Spine Fluoroscopic Injection,Interventional,1400.0,2026-05-10 00:00:00
+197,ENC-9197,Bronchoscopy with Wash,Endoscopic,1850.0,2025-06-29 00:00:00
+198,ENC-9198,Bone Marrow Biopsy,Pathology,1950.0,2025-03-06 00:00:00
+199,ENC-9199,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-03-31 00:00:00
+200,ENC-9200,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-04-15 00:00:00
+201,ENC-9201,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-04-27 00:00:00
+202,ENC-9202,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-05-15 00:00:00
+203,ENC-9203,Electroencephalogram (EEG),Diagnostic,780.0,2025-10-20 00:00:00
+204,ENC-9204,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-12-17 00:00:00
+205,ENC-9205,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-11-24 00:00:00
+206,ENC-9206,Pulmonary Function Testing,Diagnostic,420.0,2026-01-17 00:00:00
+207,ENC-9207,Spine Fluoroscopic Injection,Interventional,1400.0,2026-02-21 00:00:00
+208,ENC-9208,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-01-05 00:00:00
+209,ENC-9209,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-03-31 00:00:00
+210,ENC-9210,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-05-23 00:00:00
+211,ENC-9211,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-04-19 00:00:00
+212,ENC-9212,Digital Bone Radiography,Radiology,280.0,2025-06-07 00:00:00
+213,ENC-9213,Bronchoscopy with Wash,Endoscopic,1850.0,2025-07-02 00:00:00
+214,ENC-9214,Electroencephalogram (EEG),Diagnostic,780.0,2025-07-21 00:00:00
+215,ENC-9215,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-08-15 00:00:00
+216,ENC-9216,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-10-16 00:00:00
+217,ENC-9217,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-04-30 00:00:00
+218,ENC-9218,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-06-20 00:00:00
+219,ENC-9219,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-07-27 00:00:00
+220,ENC-9220,Digital Bone Radiography,Radiology,280.0,2025-05-07 00:00:00
+221,ENC-9221,Bronchoscopy with Wash,Endoscopic,1850.0,2025-08-27 00:00:00
+222,ENC-9222,Spine Fluoroscopic Injection,Interventional,1400.0,2025-04-12 00:00:00
+223,ENC-9223,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-08-22 00:00:00
+224,ENC-9224,Pulmonary Function Testing,Diagnostic,420.0,2026-05-21 00:00:00
+225,ENC-9225,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-07-24 00:00:00
+226,ENC-9226,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-06-22 00:00:00
+227,ENC-9227,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-08-04 00:00:00
+228,ENC-9228,Echocardiogram 2D,Diagnostic,650.0,2025-05-18 00:00:00
+229,ENC-9229,Digital Bone Radiography,Radiology,280.0,2025-03-20 00:00:00
+230,ENC-9230,Bronchoscopy with Wash,Endoscopic,1850.0,2025-06-29 00:00:00
+231,ENC-9231,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-10-01 00:00:00
+232,ENC-9232,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-02-27 00:00:00
+233,ENC-9233,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-05-23 00:00:00
+234,ENC-9234,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-03-09 00:00:00
+235,ENC-9235,Bone Marrow Biopsy,Pathology,1950.0,2025-05-22 00:00:00
+236,ENC-9236,Electroencephalogram (EEG),Diagnostic,780.0,2025-07-10 00:00:00
+237,ENC-9237,Bronchoscopy with Wash,Endoscopic,1850.0,2025-04-05 00:00:00
+238,ENC-9238,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-07-23 00:00:00
+239,ENC-9239,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-07-25 00:00:00
+240,ENC-9240,Spine Fluoroscopic Injection,Interventional,1400.0,2025-06-14 00:00:00
+241,ENC-9241,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-08-20 00:00:00
+242,ENC-9242,Bone Marrow Biopsy,Pathology,1950.0,2025-02-26 00:00:00
+243,ENC-9243,Pulmonary Function Testing,Diagnostic,420.0,2025-04-12 00:00:00
+244,ENC-9244,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-08-08 00:00:00
+245,ENC-9245,Bone Marrow Biopsy,Pathology,1950.0,2025-11-07 00:00:00
+246,ENC-9246,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-09-17 00:00:00
+247,ENC-9247,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-06-14 00:00:00
+248,ENC-9248,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-12-07 00:00:00
+249,ENC-9249,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-03-06 00:00:00
+250,ENC-9250,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-11-24 00:00:00
+251,ENC-9251,Spine Fluoroscopic Injection,Interventional,1400.0,2025-08-23 00:00:00
+252,ENC-9252,Holter Monitor 24-hr,Monitoring,350.0,2025-10-08 00:00:00
+253,ENC-9253,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-01-10 00:00:00
+254,ENC-9254,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-04-07 00:00:00
+255,ENC-9255,Pulmonary Function Testing,Diagnostic,420.0,2026-06-28 00:00:00
+256,ENC-9256,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-02-16 00:00:00
+257,ENC-9257,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-04-25 00:00:00
+258,ENC-9258,Abdominal Ultrasound,Radiology,480.0,2026-06-15 00:00:00
+259,ENC-9259,Echocardiogram 2D,Diagnostic,650.0,2026-07-31 00:00:00
+260,ENC-9260,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-05-12 00:00:00
+261,ENC-9261,Spine Fluoroscopic Injection,Interventional,1400.0,2025-10-07 00:00:00
+262,ENC-9262,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-01-22 00:00:00
+263,ENC-9263,Brain MRI with Contrast,Radiology,2100.0,2026-04-09 00:00:00
+264,ENC-9264,Bronchoscopy with Wash,Endoscopic,1850.0,2026-06-24 00:00:00
+265,ENC-9265,Electroencephalogram (EEG),Diagnostic,780.0,2026-03-19 00:00:00
+266,ENC-9266,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-06-01 00:00:00
+267,ENC-9267,Brain MRI with Contrast,Radiology,2100.0,2026-09-21 00:00:00
+268,ENC-9268,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-05-11 00:00:00
+269,ENC-9269,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-09-17 00:00:00
+270,ENC-9270,Bone Marrow Biopsy,Pathology,1950.0,2025-11-01 00:00:00
+271,ENC-9271,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-11-25 00:00:00
+272,ENC-9272,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-02-25 00:00:00
+273,ENC-9273,Electroencephalogram (EEG),Diagnostic,780.0,2026-05-04 00:00:00
+274,ENC-9274,Holter Monitor 24-hr,Monitoring,350.0,2026-04-01 00:00:00
+275,ENC-9275,Holter Monitor 24-hr,Monitoring,350.0,2026-07-05 00:00:00
+276,ENC-9276,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-07-29 00:00:00
+277,ENC-9277,Brain MRI with Contrast,Radiology,2100.0,2026-09-27 00:00:00
+278,ENC-9278,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-02-04 00:00:00
+279,ENC-9279,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-06-02 00:00:00
+280,ENC-9280,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-01-01 00:00:00
+281,ENC-9281,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-02-25 00:00:00
+282,ENC-9282,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-04-15 00:00:00
+283,ENC-9283,Bronchoscopy with Wash,Endoscopic,1850.0,2025-07-30 00:00:00
+284,ENC-9284,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-10-21 00:00:00
+285,ENC-9285,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-03-13 00:00:00
+286,ENC-9286,Echocardiogram 2D,Diagnostic,650.0,2025-04-27 00:00:00
+287,ENC-9287,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-02-18 00:00:00
+288,ENC-9288,Bone Marrow Biopsy,Pathology,1950.0,2025-05-10 00:00:00
+289,ENC-9289,Echocardiogram 2D,Diagnostic,650.0,2025-06-06 00:00:00
+290,ENC-9290,Bone Marrow Biopsy,Pathology,1950.0,2025-06-18 00:00:00
+291,ENC-9291,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-07-07 00:00:00
+292,ENC-9292,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-05-14 00:00:00
+293,ENC-9293,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-06-07 00:00:00
+294,ENC-9294,Bronchoscopy with Wash,Endoscopic,1850.0,2025-07-03 00:00:00
+295,ENC-9295,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-05-13 00:00:00
+296,ENC-9296,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-02-15 00:00:00
+297,ENC-9297,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-03-15 00:00:00
+298,ENC-9298,Holter Monitor 24-hr,Monitoring,350.0,2025-04-08 00:00:00
+299,ENC-9299,Holter Monitor 24-hr,Monitoring,350.0,2026-05-03 00:00:00
+300,ENC-9300,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-11-25 00:00:00
+301,ENC-9301,Brain MRI with Contrast,Radiology,2100.0,2025-04-12 00:00:00
+302,ENC-9302,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-05-01 00:00:00
+303,ENC-9303,Abdominal Ultrasound,Radiology,480.0,2026-01-30 00:00:00
+304,ENC-9304,Bronchoscopy with Wash,Endoscopic,1850.0,2026-03-20 00:00:00
+305,ENC-9305,Electroencephalogram (EEG),Diagnostic,780.0,2025-05-26 00:00:00
+306,ENC-9306,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-08-16 00:00:00
+307,ENC-9307,Abdominal Ultrasound,Radiology,480.0,2025-08-06 00:00:00
+308,ENC-9308,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-11-23 00:00:00
+309,ENC-9309,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-12-17 00:00:00
+310,ENC-9310,Digital Bone Radiography,Radiology,280.0,2026-02-01 00:00:00
+311,ENC-9311,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-02-11 00:00:00
+312,ENC-9312,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-03-04 00:00:00
+313,ENC-9313,Echocardiogram 2D,Diagnostic,650.0,2025-10-08 00:00:00
+314,ENC-9314,Pulmonary Function Testing,Diagnostic,420.0,2025-12-06 00:00:00
+315,ENC-9315,Total Knee Arthroplasty,Surgical,7800.0,2026-02-06 00:00:00
+316,ENC-9316,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-03-06 00:00:00
+317,ENC-9317,Pulmonary Function Testing,Diagnostic,420.0,2025-04-22 00:00:00
+318,ENC-9318,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-05-15 00:00:00
+319,ENC-9319,Bronchoscopy with Wash,Endoscopic,1850.0,2025-08-27 00:00:00
+320,ENC-9320,Digital Bone Radiography,Radiology,280.0,2025-12-24 00:00:00
+321,ENC-9321,Electroencephalogram (EEG),Diagnostic,780.0,2026-03-27 00:00:00
+322,ENC-9322,Bone Marrow Biopsy,Pathology,1950.0,2026-04-19 00:00:00
+323,ENC-9323,Digital Bone Radiography,Radiology,280.0,2025-07-20 00:00:00
+324,ENC-9324,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-06-16 00:00:00
+325,ENC-9325,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-09-02 00:00:00
+326,ENC-9326,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-12-07 00:00:00
+327,ENC-9327,Digital Bone Radiography,Radiology,280.0,2025-12-14 00:00:00
+328,ENC-9328,Digital Bone Radiography,Radiology,280.0,2026-03-29 00:00:00
+329,ENC-9329,Bone Marrow Biopsy,Pathology,1950.0,2026-01-23 00:00:00
+330,ENC-9330,Digital Bone Radiography,Radiology,280.0,2025-10-14 00:00:00
+331,ENC-9331,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-01-22 00:00:00
+332,ENC-9332,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-04-29 00:00:00
+333,ENC-9333,Pulmonary Function Testing,Diagnostic,420.0,2025-05-18 00:00:00
+334,ENC-9334,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-01-27 00:00:00
+335,ENC-9335,Bone Marrow Biopsy,Pathology,1950.0,2025-04-11 00:00:00
+336,ENC-9336,Abdominal Ultrasound,Radiology,480.0,2025-05-31 00:00:00
+337,ENC-9337,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-07-14 00:00:00
+338,ENC-9338,Holter Monitor 24-hr,Monitoring,350.0,2026-03-04 00:00:00
+339,ENC-9339,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-03-28 00:00:00
+340,ENC-9340,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-12-05 00:00:00
+341,ENC-9341,Brain MRI with Contrast,Radiology,2100.0,2025-04-17 00:00:00
+342,ENC-9342,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-10-26 00:00:00
+343,ENC-9343,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-12-08 00:00:00
+344,ENC-9344,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-06-18 00:00:00
+345,ENC-9345,Digital Bone Radiography,Radiology,280.0,2025-06-29 00:00:00
+346,ENC-9346,Electroencephalogram (EEG),Diagnostic,780.0,2025-09-25 00:00:00
+347,ENC-9347,Bronchoscopy with Wash,Endoscopic,1850.0,2026-01-13 00:00:00
+348,ENC-9348,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-04-18 00:00:00
+349,ENC-9349,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-05-10 00:00:00
+350,ENC-9350,Holter Monitor 24-hr,Monitoring,350.0,2026-08-03 00:00:00
+351,ENC-9351,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-08-21 00:00:00
+352,ENC-9352,Brain MRI with Contrast,Radiology,2100.0,2025-03-06 00:00:00
+353,ENC-9353,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-03-19 00:00:00
+354,ENC-9354,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-10-13 00:00:00
+355,ENC-9355,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-01-03 00:00:00
+356,ENC-9356,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-01-19 00:00:00
+357,ENC-9357,Electroencephalogram (EEG),Diagnostic,780.0,2026-02-13 00:00:00
+358,ENC-9358,Bone Marrow Biopsy,Pathology,1950.0,2025-12-06 00:00:00
+359,ENC-9359,Bronchoscopy with Wash,Endoscopic,1850.0,2026-05-19 00:00:00
+360,ENC-9360,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-04-24 00:00:00
+361,ENC-9361,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-05-08 00:00:00
+362,ENC-9362,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-05-29 00:00:00
+363,ENC-9363,Echocardiogram 2D,Diagnostic,650.0,2026-06-13 00:00:00
+364,ENC-9364,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-12-23 00:00:00
+365,ENC-9365,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-04-02 00:00:00
+366,ENC-9366,Bronchoscopy with Wash,Endoscopic,1850.0,2025-01-13 00:00:00
+367,ENC-9367,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-03-03 00:00:00
+368,ENC-9368,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-06-22 00:00:00
+369,ENC-9369,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-07-22 00:00:00
+370,ENC-9370,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-10-27 00:00:00
+371,ENC-9371,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-08-29 00:00:00
+372,ENC-9372,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-09-30 00:00:00
+373,ENC-9373,Bone Marrow Biopsy,Pathology,1950.0,2026-01-03 00:00:00
+374,ENC-9374,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-04-25 00:00:00
+375,ENC-9375,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-03-25 00:00:00
+376,ENC-9376,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-06-05 00:00:00
+377,ENC-9377,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-09-21 00:00:00
+378,ENC-9378,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-12-18 00:00:00
+379,ENC-9379,Bone Marrow Biopsy,Pathology,1950.0,2026-03-11 00:00:00
+380,ENC-9380,Holter Monitor 24-hr,Monitoring,350.0,2025-05-10 00:00:00
+381,ENC-9381,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-06-07 00:00:00
+382,ENC-9382,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-08-08 00:00:00
+383,ENC-9383,Brain MRI with Contrast,Radiology,2100.0,2026-02-08 00:00:00
+384,ENC-9384,Abdominal Ultrasound,Radiology,480.0,2026-03-27 00:00:00
+385,ENC-9385,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-03-14 00:00:00
+386,ENC-9386,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-02-18 00:00:00
+387,ENC-9387,Bone Marrow Biopsy,Pathology,1950.0,2026-04-25 00:00:00
+388,ENC-9388,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-11-02 00:00:00
+389,ENC-9389,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-02-18 00:00:00
+390,ENC-9390,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-06-15 00:00:00
+391,ENC-9391,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-07-03 00:00:00
+392,ENC-9392,Abdominal Ultrasound,Radiology,480.0,2026-01-03 00:00:00
+393,ENC-9393,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-01-17 00:00:00
+394,ENC-9394,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-04-02 00:00:00
+395,ENC-9395,Abdominal Ultrasound,Radiology,480.0,2025-11-10 00:00:00
+396,ENC-9396,Electroencephalogram (EEG),Diagnostic,780.0,2026-02-15 00:00:00
+397,ENC-9397,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-03-08 00:00:00
+398,ENC-9398,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-04-03 00:00:00
+399,ENC-9399,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-03-11 00:00:00
+400,ENC-9400,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-06-19 00:00:00
+401,ENC-9401,Electroencephalogram (EEG),Diagnostic,780.0,2026-08-10 00:00:00
+402,ENC-9402,Echocardiogram 2D,Diagnostic,650.0,2025-05-26 00:00:00
+403,ENC-9403,Echocardiogram 2D,Diagnostic,650.0,2025-06-11 00:00:00
+404,ENC-9404,Pulmonary Function Testing,Diagnostic,420.0,2025-07-09 00:00:00
+405,ENC-9405,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-10-03 00:00:00
+406,ENC-9406,Electroencephalogram (EEG),Diagnostic,780.0,2025-02-11 00:00:00
+407,ENC-9407,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-05-16 00:00:00
+408,ENC-9408,Spine Fluoroscopic Injection,Interventional,1400.0,2025-01-14 00:00:00
+409,ENC-9409,Abdominal Ultrasound,Radiology,480.0,2025-07-11 00:00:00
+410,ENC-9410,Total Knee Arthroplasty,Surgical,7800.0,2025-09-15 00:00:00
+411,ENC-9411,Total Knee Arthroplasty,Surgical,7800.0,2025-11-10 00:00:00
+412,ENC-9412,Echocardiogram 2D,Diagnostic,650.0,2025-09-10 00:00:00
+413,ENC-9413,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-11-24 00:00:00
+414,ENC-9414,Brain MRI with Contrast,Radiology,2100.0,2026-01-29 00:00:00
+415,ENC-9415,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-02-14 00:00:00
+416,ENC-9416,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-03-09 00:00:00
+417,ENC-9417,Electroencephalogram (EEG),Diagnostic,780.0,2025-05-15 00:00:00
+418,ENC-9418,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-08-29 00:00:00
+419,ENC-9419,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-05-17 00:00:00
+420,ENC-9420,Brain MRI with Contrast,Radiology,2100.0,2025-09-28 00:00:00
+421,ENC-9421,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-07-31 00:00:00
+422,ENC-9422,Brain MRI with Contrast,Radiology,2100.0,2025-10-02 00:00:00
+423,ENC-9423,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-10-18 00:00:00
+424,ENC-9424,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-01-14 00:00:00
+425,ENC-9425,Total Knee Arthroplasty,Surgical,7800.0,2026-03-31 00:00:00
+426,ENC-9426,Holter Monitor 24-hr,Monitoring,350.0,2026-06-13 00:00:00
+427,ENC-9427,Electroencephalogram (EEG),Diagnostic,780.0,2026-06-27 00:00:00
+428,ENC-9428,Electroencephalogram (EEG),Diagnostic,780.0,2025-12-09 00:00:00
+429,ENC-9429,Echocardiogram 2D,Diagnostic,650.0,2025-09-29 00:00:00
+430,ENC-9430,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-11-12 00:00:00
+431,ENC-9431,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-09-09 00:00:00
+432,ENC-9432,Echocardiogram 2D,Diagnostic,650.0,2025-11-18 00:00:00
+433,ENC-9433,Digital Bone Radiography,Radiology,280.0,2026-03-08 00:00:00
+434,ENC-9434,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-05-13 00:00:00
+435,ENC-9435,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-05-24 00:00:00
+436,ENC-9436,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-04-11 00:00:00
+437,ENC-9437,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-06-18 00:00:00
+438,ENC-9438,Pulmonary Function Testing,Diagnostic,420.0,2026-09-25 00:00:00
+439,ENC-9439,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-01-12 00:00:00
+440,ENC-9440,Holter Monitor 24-hr,Monitoring,350.0,2026-05-11 00:00:00
+441,ENC-9441,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-04-10 00:00:00
+442,ENC-9442,Bone Marrow Biopsy,Pathology,1950.0,2025-05-25 00:00:00
+443,ENC-9443,Brain MRI with Contrast,Radiology,2100.0,2025-07-19 00:00:00
+444,ENC-9444,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-01-08 00:00:00
+445,ENC-9445,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-01-20 00:00:00
+446,ENC-9446,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-02-28 00:00:00
+447,ENC-9447,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-06-12 00:00:00
+448,ENC-9448,Total Knee Arthroplasty,Surgical,7800.0,2026-02-11 00:00:00
+449,ENC-9449,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-04-12 00:00:00
+450,ENC-9450,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-04-24 00:00:00
+451,ENC-9451,Total Knee Arthroplasty,Surgical,7800.0,2026-05-19 00:00:00
+452,ENC-9452,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-03-24 00:00:00
+453,ENC-9453,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-09-28 00:00:00
+454,ENC-9454,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-07-12 00:00:00
+455,ENC-9455,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-05-08 00:00:00
+456,ENC-9456,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-09-03 00:00:00
+457,ENC-9457,Pulmonary Function Testing,Diagnostic,420.0,2025-11-29 00:00:00
+458,ENC-9458,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-03-16 00:00:00
+459,ENC-9459,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-03-01 00:00:00
+460,ENC-9460,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-07-02 00:00:00
+461,ENC-9461,Digital Bone Radiography,Radiology,280.0,2026-08-02 00:00:00
+462,ENC-9462,Total Knee Arthroplasty,Surgical,7800.0,2026-01-02 00:00:00
+463,ENC-9463,Echocardiogram 2D,Diagnostic,650.0,2026-03-01 00:00:00
+464,ENC-9464,Bronchoscopy with Wash,Endoscopic,1850.0,2026-05-05 00:00:00
+465,ENC-9465,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-03-06 00:00:00
+466,ENC-9466,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-02-02 00:00:00
+467,ENC-9467,Electroencephalogram (EEG),Diagnostic,780.0,2025-03-24 00:00:00
+468,ENC-9468,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-04-05 00:00:00
+469,ENC-9469,Abdominal Ultrasound,Radiology,480.0,2025-05-02 00:00:00
+470,ENC-9470,Bone Marrow Biopsy,Pathology,1950.0,2025-12-28 00:00:00
+471,ENC-9471,Brain MRI with Contrast,Radiology,2100.0,2025-04-28 00:00:00
+472,ENC-9472,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-01-12 00:00:00
+473,ENC-9473,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-03-18 00:00:00
+474,ENC-9474,Pulmonary Function Testing,Diagnostic,420.0,2025-07-13 00:00:00
+475,ENC-9475,Holter Monitor 24-hr,Monitoring,350.0,2025-10-19 00:00:00
+476,ENC-9476,Bone Marrow Biopsy,Pathology,1950.0,2025-12-09 00:00:00
+477,ENC-9477,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-03-05 00:00:00
+478,ENC-9478,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-05-02 00:00:00
+479,ENC-9479,Electroencephalogram (EEG),Diagnostic,780.0,2025-06-11 00:00:00
+480,ENC-9480,Pulmonary Function Testing,Diagnostic,420.0,2025-10-31 00:00:00
+481,ENC-9481,Spine Fluoroscopic Injection,Interventional,1400.0,2026-01-30 00:00:00
+482,ENC-9482,Spine Fluoroscopic Injection,Interventional,1400.0,2026-01-30 00:00:00
+483,ENC-9483,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-05-02 00:00:00
+484,ENC-9484,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-08-24 00:00:00
+485,ENC-9485,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-07-13 00:00:00
+486,ENC-9486,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-02-06 00:00:00
+487,ENC-9487,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-12-22 00:00:00
+488,ENC-9488,Holter Monitor 24-hr,Monitoring,350.0,2026-04-12 00:00:00
+489,ENC-9489,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-04-22 00:00:00
+490,ENC-9490,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-05-18 00:00:00
+491,ENC-9491,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-05-11 00:00:00
+492,ENC-9492,Total Knee Arthroplasty,Surgical,7800.0,2026-06-29 00:00:00
+493,ENC-9493,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-02-05 00:00:00
+494,ENC-9494,Electroencephalogram (EEG),Diagnostic,780.0,2026-05-26 00:00:00
+495,ENC-9495,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-08-11 00:00:00
+496,ENC-9496,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-05-27 00:00:00
+497,ENC-9497,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-06-27 00:00:00
+498,ENC-9498,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-04-18 00:00:00
+499,ENC-9499,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-03-07 00:00:00
+500,ENC-9500,Abdominal Ultrasound,Radiology,480.0,2026-01-18 00:00:00
+501,ENC-9501,Holter Monitor 24-hr,Monitoring,350.0,2026-03-10 00:00:00
+502,ENC-9502,Spine Fluoroscopic Injection,Interventional,1400.0,2025-02-24 00:00:00
+503,ENC-9503,Bronchoscopy with Wash,Endoscopic,1850.0,2025-07-25 00:00:00
+504,ENC-9504,Brain MRI with Contrast,Radiology,2100.0,2026-05-11 00:00:00
+505,ENC-9505,Spine Fluoroscopic Injection,Interventional,1400.0,2025-06-24 00:00:00
+506,ENC-9506,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-10-02 00:00:00
+507,ENC-9507,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-12-30 00:00:00
+508,ENC-9508,Bone Marrow Biopsy,Pathology,1950.0,2026-02-04 00:00:00
+509,ENC-9509,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-02-19 00:00:00
+510,ENC-9510,Bronchoscopy with Wash,Endoscopic,1850.0,2026-05-10 00:00:00
+511,ENC-9511,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-08-25 00:00:00
+512,ENC-9512,Abdominal Ultrasound,Radiology,480.0,2026-01-22 00:00:00
+513,ENC-9513,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-02-19 00:00:00
+514,ENC-9514,Spine Fluoroscopic Injection,Interventional,1400.0,2026-04-20 00:00:00
+515,ENC-9515,Brain MRI with Contrast,Radiology,2100.0,2026-05-14 00:00:00
+516,ENC-9516,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-09-05 00:00:00
+517,ENC-9517,Holter Monitor 24-hr,Monitoring,350.0,2025-03-02 00:00:00
+518,ENC-9518,Electroencephalogram (EEG),Diagnostic,780.0,2025-03-29 00:00:00
+519,ENC-9519,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-06-14 00:00:00
+520,ENC-9520,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-10-11 00:00:00
+521,ENC-9521,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-01-11 00:00:00
+522,ENC-9522,Total Knee Arthroplasty,Surgical,7800.0,2025-02-07 00:00:00
+523,ENC-9523,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-01-11 00:00:00
+524,ENC-9524,Total Knee Arthroplasty,Surgical,7800.0,2025-05-21 00:00:00
+525,ENC-9525,Abdominal Ultrasound,Radiology,480.0,2025-02-04 00:00:00
+526,ENC-9526,Spine Fluoroscopic Injection,Interventional,1400.0,2025-02-15 00:00:00
+527,ENC-9527,Digital Bone Radiography,Radiology,280.0,2025-12-11 00:00:00
+528,ENC-9528,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-02-17 00:00:00
+529,ENC-9529,Pulmonary Function Testing,Diagnostic,420.0,2025-10-08 00:00:00
+530,ENC-9530,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-11-25 00:00:00
+531,ENC-9531,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-01-21 00:00:00
+532,ENC-9532,Digital Bone Radiography,Radiology,280.0,2026-01-31 00:00:00
+533,ENC-9533,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-09-21 00:00:00
+534,ENC-9534,Pulmonary Function Testing,Diagnostic,420.0,2025-10-28 00:00:00
+535,ENC-9535,Electroencephalogram (EEG),Diagnostic,780.0,2026-01-16 00:00:00
+536,ENC-9536,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-01-23 00:00:00
+537,ENC-9537,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-05-12 00:00:00
+538,ENC-9538,Digital Bone Radiography,Radiology,280.0,2026-06-20 00:00:00
+539,ENC-9539,Electroencephalogram (EEG),Diagnostic,780.0,2026-02-22 00:00:00
+540,ENC-9540,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-07-22 00:00:00
+541,ENC-9541,Pulmonary Function Testing,Diagnostic,420.0,2025-09-18 00:00:00
+542,ENC-9542,Pulmonary Function Testing,Diagnostic,420.0,2025-12-11 00:00:00
+543,ENC-9543,Holter Monitor 24-hr,Monitoring,350.0,2025-03-27 00:00:00
+544,ENC-9544,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-05-20 00:00:00
+545,ENC-9545,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-08-04 00:00:00
+546,ENC-9546,Bronchoscopy with Wash,Endoscopic,1850.0,2025-11-02 00:00:00
+547,ENC-9547,Holter Monitor 24-hr,Monitoring,350.0,2025-07-19 00:00:00
+548,ENC-9548,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-05-03 00:00:00
+549,ENC-9549,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-08-02 00:00:00
+550,ENC-9550,Echocardiogram 2D,Diagnostic,650.0,2025-02-06 00:00:00
+551,ENC-9551,Bronchoscopy with Wash,Endoscopic,1850.0,2025-07-23 00:00:00
+552,ENC-9552,Electroencephalogram (EEG),Diagnostic,780.0,2026-05-11 00:00:00
+553,ENC-9553,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-03-06 00:00:00
+554,ENC-9554,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-06-06 00:00:00
+555,ENC-9555,Bone Marrow Biopsy,Pathology,1950.0,2026-02-13 00:00:00
+556,ENC-9556,Holter Monitor 24-hr,Monitoring,350.0,2026-02-24 00:00:00
+557,ENC-9557,Electroencephalogram (EEG),Diagnostic,780.0,2026-03-13 00:00:00
+558,ENC-9558,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-04-15 00:00:00
+559,ENC-9559,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-07-23 00:00:00
+560,ENC-9560,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-06-05 00:00:00
+561,ENC-9561,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-07-03 00:00:00
+562,ENC-9562,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-08-31 00:00:00
+563,ENC-9563,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-11-13 00:00:00
+564,ENC-9564,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-08-27 00:00:00
+565,ENC-9565,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-10-08 00:00:00
+566,ENC-9566,Brain MRI with Contrast,Radiology,2100.0,2026-03-12 00:00:00
+567,ENC-9567,Brain MRI with Contrast,Radiology,2100.0,2026-04-25 00:00:00
+568,ENC-9568,Bone Marrow Biopsy,Pathology,1950.0,2026-07-17 00:00:00
+569,ENC-9569,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-05-19 00:00:00
+570,ENC-9570,Bone Marrow Biopsy,Pathology,1950.0,2025-07-14 00:00:00
+571,ENC-9571,Echocardiogram 2D,Diagnostic,650.0,2025-10-24 00:00:00
+572,ENC-9572,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-07-27 00:00:00
+573,ENC-9573,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-09-09 00:00:00
+574,ENC-9574,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-05-21 00:00:00
+575,ENC-9575,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-06-14 00:00:00
+576,ENC-9576,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-07-09 00:00:00
+577,ENC-9577,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-08-04 00:00:00
+578,ENC-9578,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-10-08 00:00:00
+579,ENC-9579,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-04-28 00:00:00
+580,ENC-9580,Brain MRI with Contrast,Radiology,2100.0,2026-08-18 00:00:00
+581,ENC-9581,Brain MRI with Contrast,Radiology,2100.0,2025-12-07 00:00:00
+582,ENC-9582,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-02-20 00:00:00
+583,ENC-9583,Brain MRI with Contrast,Radiology,2100.0,2025-03-30 00:00:00
+584,ENC-9584,Total Knee Arthroplasty,Surgical,7800.0,2025-07-02 00:00:00
+585,ENC-9585,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-07-14 00:00:00
+586,ENC-9586,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-12-30 00:00:00
+587,ENC-9587,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-10-23 00:00:00
+588,ENC-9588,Echocardiogram 2D,Diagnostic,650.0,2025-11-18 00:00:00
+589,ENC-9589,Bone Marrow Biopsy,Pathology,1950.0,2026-01-26 00:00:00
+590,ENC-9590,Total Knee Arthroplasty,Surgical,7800.0,2026-02-11 00:00:00
+591,ENC-9591,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-10-03 00:00:00
+592,ENC-9592,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-12-21 00:00:00
+593,ENC-9593,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-01-05 00:00:00
+594,ENC-9594,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-01-19 00:00:00
+595,ENC-9595,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-02-03 00:00:00
+596,ENC-9596,Total Knee Arthroplasty,Surgical,7800.0,2025-05-22 00:00:00
+597,ENC-9597,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-06-17 00:00:00
+598,ENC-9598,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-02-16 00:00:00
+599,ENC-9599,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-07-03 00:00:00
+600,ENC-9600,Pulmonary Function Testing,Diagnostic,420.0,2025-02-10 00:00:00
+601,ENC-9601,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-01-18 00:00:00
+602,ENC-9602,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-05-29 00:00:00
+603,ENC-9603,Digital Bone Radiography,Radiology,280.0,2025-05-15 00:00:00
+604,ENC-9604,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-05-25 00:00:00
+605,ENC-9605,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-06-12 00:00:00
+606,ENC-9606,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-02-03 00:00:00
+607,ENC-9607,Holter Monitor 24-hr,Monitoring,350.0,2025-09-19 00:00:00
+608,ENC-9608,Bone Marrow Biopsy,Pathology,1950.0,2025-12-14 00:00:00
+609,ENC-9609,Digital Bone Radiography,Radiology,280.0,2026-01-23 00:00:00
+610,ENC-9610,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-03-14 00:00:00
+611,ENC-9611,Brain MRI with Contrast,Radiology,2100.0,2026-03-30 00:00:00
+612,ENC-9612,Holter Monitor 24-hr,Monitoring,350.0,2026-02-25 00:00:00
+613,ENC-9613,Pulmonary Function Testing,Diagnostic,420.0,2026-04-25 00:00:00
+614,ENC-9614,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-08-19 00:00:00
+615,ENC-9615,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-04-18 00:00:00
+616,ENC-9616,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-07-26 00:00:00
+617,ENC-9617,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-02-10 00:00:00
+618,ENC-9618,Bone Marrow Biopsy,Pathology,1950.0,2025-04-10 00:00:00
+619,ENC-9619,Brain MRI with Contrast,Radiology,2100.0,2025-05-24 00:00:00
+620,ENC-9620,Brain MRI with Contrast,Radiology,2100.0,2025-10-29 00:00:00
+621,ENC-9621,Abdominal Ultrasound,Radiology,480.0,2025-12-22 00:00:00
+622,ENC-9622,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-01-23 00:00:00
+623,ENC-9623,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-05-03 00:00:00
+624,ENC-9624,Bone Marrow Biopsy,Pathology,1950.0,2025-07-22 00:00:00
+625,ENC-9625,Digital Bone Radiography,Radiology,280.0,2025-07-07 00:00:00
+626,ENC-9626,Abdominal Ultrasound,Radiology,480.0,2025-11-02 00:00:00
+627,ENC-9627,Spine Fluoroscopic Injection,Interventional,1400.0,2025-03-27 00:00:00
+628,ENC-9628,Holter Monitor 24-hr,Monitoring,350.0,2025-04-09 00:00:00
+629,ENC-9629,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-09-12 00:00:00
+630,ENC-9630,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-07-03 00:00:00
+631,ENC-9631,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-05-29 00:00:00
+632,ENC-9632,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-06-10 00:00:00
+633,ENC-9633,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-08-25 00:00:00
+634,ENC-9634,Digital Bone Radiography,Radiology,280.0,2025-01-20 00:00:00
+635,ENC-9635,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-03-21 00:00:00
+636,ENC-9636,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-01-20 00:00:00
+637,ENC-9637,Bone Marrow Biopsy,Pathology,1950.0,2026-01-31 00:00:00
+638,ENC-9638,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-04-11 00:00:00
+639,ENC-9639,Brain MRI with Contrast,Radiology,2100.0,2026-05-05 00:00:00
+640,ENC-9640,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-06-23 00:00:00
+641,ENC-9641,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-03-31 00:00:00
+642,ENC-9642,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-07-17 00:00:00
+643,ENC-9643,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-03-14 00:00:00
+644,ENC-9644,Total Knee Arthroplasty,Surgical,7800.0,2025-10-23 00:00:00
+645,ENC-9645,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-11-15 00:00:00
+646,ENC-9646,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-05-16 00:00:00
+647,ENC-9647,Abdominal Ultrasound,Radiology,480.0,2026-01-05 00:00:00
+648,ENC-9648,Echocardiogram 2D,Diagnostic,650.0,2025-11-28 00:00:00
+649,ENC-9649,Electroencephalogram (EEG),Diagnostic,780.0,2025-12-15 00:00:00
+650,ENC-9650,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-12-25 00:00:00
+651,ENC-9651,Electroencephalogram (EEG),Diagnostic,780.0,2026-01-08 00:00:00
+652,ENC-9652,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-02-02 00:00:00
+653,ENC-9653,Digital Bone Radiography,Radiology,280.0,2025-07-20 00:00:00
+654,ENC-9654,Electroencephalogram (EEG),Diagnostic,780.0,2025-09-09 00:00:00
+655,ENC-9655,Echocardiogram 2D,Diagnostic,650.0,2026-05-25 00:00:00
+656,ENC-9656,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-02-20 00:00:00
+657,ENC-9657,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-09-19 00:00:00
+658,ENC-9658,Electroencephalogram (EEG),Diagnostic,780.0,2025-10-14 00:00:00
+659,ENC-9659,Holter Monitor 24-hr,Monitoring,350.0,2026-01-15 00:00:00
+660,ENC-9660,Bone Marrow Biopsy,Pathology,1950.0,2026-05-15 00:00:00
+661,ENC-9661,Brain MRI with Contrast,Radiology,2100.0,2026-05-03 00:00:00
+662,ENC-9662,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-08-05 00:00:00
+663,ENC-9663,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-03-14 00:00:00
+664,ENC-9664,Abdominal Ultrasound,Radiology,480.0,2025-05-16 00:00:00
+665,ENC-9665,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-12-16 00:00:00
+666,ENC-9666,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-01-07 00:00:00
+667,ENC-9667,Pulmonary Function Testing,Diagnostic,420.0,2026-02-01 00:00:00
+668,ENC-9668,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-01-20 00:00:00
+669,ENC-9669,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-02-10 00:00:00
+670,ENC-9670,Total Knee Arthroplasty,Surgical,7800.0,2025-12-06 00:00:00
+671,ENC-9671,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-05-27 00:00:00
+672,ENC-9672,Total Knee Arthroplasty,Surgical,7800.0,2025-07-10 00:00:00
+673,ENC-9673,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-10-01 00:00:00
+674,ENC-9674,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-05-30 00:00:00
+675,ENC-9675,Brain MRI with Contrast,Radiology,2100.0,2025-08-16 00:00:00
+676,ENC-9676,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-05-10 00:00:00
+677,ENC-9677,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-11-24 00:00:00
+678,ENC-9678,Bronchoscopy with Wash,Endoscopic,1850.0,2026-03-08 00:00:00
+679,ENC-9679,Pulmonary Function Testing,Diagnostic,420.0,2025-02-28 00:00:00
+680,ENC-9680,Digital Bone Radiography,Radiology,280.0,2025-06-04 00:00:00
+681,ENC-9681,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-07-27 00:00:00
+682,ENC-9682,Electroencephalogram (EEG),Diagnostic,780.0,2025-09-12 00:00:00
+683,ENC-9683,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-01-01 00:00:00
+684,ENC-9684,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-09-24 00:00:00
+685,ENC-9685,Pulmonary Function Testing,Diagnostic,420.0,2026-01-18 00:00:00
+686,ENC-9686,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-07-13 00:00:00
+687,ENC-9687,Electroencephalogram (EEG),Diagnostic,780.0,2025-11-06 00:00:00
+688,ENC-9688,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-02-28 00:00:00
+689,ENC-9689,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-09-10 00:00:00
+690,ENC-9690,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-07-22 00:00:00
+691,ENC-9691,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-05-11 00:00:00
+692,ENC-9692,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-06-27 00:00:00
+693,ENC-9693,Total Knee Arthroplasty,Surgical,7800.0,2025-07-10 00:00:00
+694,ENC-9694,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-10-25 00:00:00
+695,ENC-9695,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-12-20 00:00:00
+696,ENC-9696,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-04-14 00:00:00
+697,ENC-9697,Abdominal Ultrasound,Radiology,480.0,2025-10-19 00:00:00
+698,ENC-9698,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-01-30 00:00:00
+699,ENC-9699,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-05-27 00:00:00
+700,ENC-9700,Bone Marrow Biopsy,Pathology,1950.0,2025-06-29 00:00:00
+701,ENC-9701,Holter Monitor 24-hr,Monitoring,350.0,2026-03-26 00:00:00
+702,ENC-9702,Brain MRI with Contrast,Radiology,2100.0,2025-01-18 00:00:00
+703,ENC-9703,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-02-06 00:00:00
+704,ENC-9704,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-05-24 00:00:00
+705,ENC-9705,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-06-14 00:00:00
+706,ENC-9706,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-09-04 00:00:00
+707,ENC-9707,Digital Bone Radiography,Radiology,280.0,2025-10-11 00:00:00
+708,ENC-9708,Abdominal Ultrasound,Radiology,480.0,2026-04-09 00:00:00
+709,ENC-9709,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-06-09 00:00:00
+710,ENC-9710,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-03-29 00:00:00
+711,ENC-9711,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-05-05 00:00:00
+712,ENC-9712,Bronchoscopy with Wash,Endoscopic,1850.0,2026-07-05 00:00:00
+713,ENC-9713,Brain MRI with Contrast,Radiology,2100.0,2026-09-09 00:00:00
+714,ENC-9714,Bone Marrow Biopsy,Pathology,1950.0,2025-04-24 00:00:00
+715,ENC-9715,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-08-22 00:00:00
+716,ENC-9716,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-10-21 00:00:00
+717,ENC-9717,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-07-24 00:00:00
+718,ENC-9718,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-12-21 00:00:00
+719,ENC-9719,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-03-08 00:00:00
+720,ENC-9720,Bronchoscopy with Wash,Endoscopic,1850.0,2025-03-25 00:00:00
+721,ENC-9721,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-03-23 00:00:00
+722,ENC-9722,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-07-13 00:00:00
+723,ENC-9723,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-03-13 00:00:00
+724,ENC-9724,Holter Monitor 24-hr,Monitoring,350.0,2025-03-23 00:00:00
+725,ENC-9725,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-06-23 00:00:00
+726,ENC-9726,Bone Marrow Biopsy,Pathology,1950.0,2026-04-18 00:00:00
+727,ENC-9727,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-01-26 00:00:00
+728,ENC-9728,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-05-21 00:00:00
+729,ENC-9729,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-06-13 00:00:00
+730,ENC-9730,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-03-03 00:00:00
+731,ENC-9731,Brain MRI with Contrast,Radiology,2100.0,2026-06-08 00:00:00
+732,ENC-9732,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-05-03 00:00:00
+733,ENC-9733,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-07-12 00:00:00
+734,ENC-9734,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-10-10 00:00:00
+735,ENC-9735,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-12-02 00:00:00
+736,ENC-9736,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-01-21 00:00:00
+737,ENC-9737,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-06-10 00:00:00
+738,ENC-9738,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-05-04 00:00:00
+739,ENC-9739,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-05-24 00:00:00
+740,ENC-9740,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-08-15 00:00:00
+741,ENC-9741,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-08-01 00:00:00
+742,ENC-9742,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-08-19 00:00:00
+743,ENC-9743,Holter Monitor 24-hr,Monitoring,350.0,2025-08-30 00:00:00
+744,ENC-9744,Spine Fluoroscopic Injection,Interventional,1400.0,2025-09-16 00:00:00
+745,ENC-9745,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-11-07 00:00:00
+746,ENC-9746,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-02-20 00:00:00
+747,ENC-9747,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-04-22 00:00:00
+748,ENC-9748,Spine Fluoroscopic Injection,Interventional,1400.0,2026-02-02 00:00:00
+749,ENC-9749,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-05-06 00:00:00
+750,ENC-9750,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-08-26 00:00:00
+751,ENC-9751,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-02-01 00:00:00
+752,ENC-9752,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-09-25 00:00:00
+753,ENC-9753,Echocardiogram 2D,Diagnostic,650.0,2025-10-19 00:00:00
+754,ENC-9754,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-01-18 00:00:00
+755,ENC-9755,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-05-21 00:00:00
+756,ENC-9756,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-06-11 00:00:00
+757,ENC-9757,Bone Marrow Biopsy,Pathology,1950.0,2025-06-18 00:00:00
+758,ENC-9758,Spine Fluoroscopic Injection,Interventional,1400.0,2025-08-21 00:00:00
+759,ENC-9759,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-08-03 00:00:00
+760,ENC-9760,Holter Monitor 24-hr,Monitoring,350.0,2025-08-16 00:00:00
+761,ENC-9761,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-10-14 00:00:00
+762,ENC-9762,Pulmonary Function Testing,Diagnostic,420.0,2026-05-15 00:00:00
+763,ENC-9763,Holter Monitor 24-hr,Monitoring,350.0,2026-04-08 00:00:00
+764,ENC-9764,Brain MRI with Contrast,Radiology,2100.0,2026-05-01 00:00:00
+765,ENC-9765,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-05-15 00:00:00
+766,ENC-9766,Pulmonary Function Testing,Diagnostic,420.0,2026-04-01 00:00:00
+767,ENC-9767,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-04-19 00:00:00
+768,ENC-9768,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-07-16 00:00:00
+769,ENC-9769,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-01-18 00:00:00
+770,ENC-9770,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-05-04 00:00:00
+771,ENC-9771,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-05-07 00:00:00
+772,ENC-9772,Pulmonary Function Testing,Diagnostic,420.0,2026-07-05 00:00:00
+773,ENC-9773,Digital Bone Radiography,Radiology,280.0,2026-02-09 00:00:00
+774,ENC-9774,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-03-19 00:00:00
+775,ENC-9775,Echocardiogram 2D,Diagnostic,650.0,2025-05-30 00:00:00
+776,ENC-9776,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-09-24 00:00:00
+777,ENC-9777,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-12-23 00:00:00
+778,ENC-9778,Bone Marrow Biopsy,Pathology,1950.0,2025-10-30 00:00:00
+779,ENC-9779,Electroencephalogram (EEG),Diagnostic,780.0,2025-12-28 00:00:00
+780,ENC-9780,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-02-07 00:00:00
+781,ENC-9781,Echocardiogram 2D,Diagnostic,650.0,2026-03-14 00:00:00
+782,ENC-9782,Bronchoscopy with Wash,Endoscopic,1850.0,2025-02-25 00:00:00
+783,ENC-9783,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-04-06 00:00:00
+784,ENC-9784,Electroencephalogram (EEG),Diagnostic,780.0,2025-08-31 00:00:00
+785,ENC-9785,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-10-04 00:00:00
+786,ENC-9786,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-01-09 00:00:00
+787,ENC-9787,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-01-29 00:00:00
+788,ENC-9788,Pulmonary Function Testing,Diagnostic,420.0,2026-01-17 00:00:00
+789,ENC-9789,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-03-11 00:00:00
+790,ENC-9790,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-04-02 00:00:00
+791,ENC-9791,Pulmonary Function Testing,Diagnostic,420.0,2026-01-09 00:00:00
+792,ENC-9792,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-02-19 00:00:00
+793,ENC-9793,Pulmonary Function Testing,Diagnostic,420.0,2025-07-20 00:00:00
+794,ENC-9794,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-06-25 00:00:00
+795,ENC-9795,Digital Bone Radiography,Radiology,280.0,2025-10-03 00:00:00
+796,ENC-9796,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-04-17 00:00:00
+797,ENC-9797,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-05-10 00:00:00
+798,ENC-9798,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-07-10 00:00:00
+799,ENC-9799,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-07-31 00:00:00
+800,ENC-9800,Bronchoscopy with Wash,Endoscopic,1850.0,2025-09-18 00:00:00
+801,ENC-9801,Electroencephalogram (EEG),Diagnostic,780.0,2025-04-14 00:00:00
+802,ENC-9802,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-01-12 00:00:00
+803,ENC-9803,Brain MRI with Contrast,Radiology,2100.0,2026-02-07 00:00:00
+804,ENC-9804,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-05-09 00:00:00
+805,ENC-9805,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-02-08 00:00:00
+806,ENC-9806,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-09-22 00:00:00
+807,ENC-9807,Bronchoscopy with Wash,Endoscopic,1850.0,2025-09-21 00:00:00
+808,ENC-9808,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-06-02 00:00:00
+809,ENC-9809,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-08-22 00:00:00
+810,ENC-9810,Total Knee Arthroplasty,Surgical,7800.0,2026-03-17 00:00:00
+811,ENC-9811,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-05-27 00:00:00
+812,ENC-9812,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-01-01 00:00:00
+813,ENC-9813,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-05-18 00:00:00
+814,ENC-9814,Bronchoscopy with Wash,Endoscopic,1850.0,2026-07-05 00:00:00
+815,ENC-9815,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-11-10 00:00:00
+816,ENC-9816,Pulmonary Function Testing,Diagnostic,420.0,2026-01-21 00:00:00
+817,ENC-9817,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-05-19 00:00:00
+818,ENC-9818,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-02-02 00:00:00
+819,ENC-9819,Brain MRI with Contrast,Radiology,2100.0,2025-07-08 00:00:00
+820,ENC-9820,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-08-12 00:00:00
+821,ENC-9821,Digital Bone Radiography,Radiology,280.0,2026-05-29 00:00:00
+822,ENC-9822,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-07-28 00:00:00
+823,ENC-9823,Total Knee Arthroplasty,Surgical,7800.0,2025-02-09 00:00:00
+824,ENC-9824,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-10-08 00:00:00
+825,ENC-9825,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-07-01 00:00:00
+826,ENC-9826,Total Knee Arthroplasty,Surgical,7800.0,2025-07-17 00:00:00
+827,ENC-9827,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-08-26 00:00:00
+828,ENC-9828,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-12-28 00:00:00
+829,ENC-9829,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-02-23 00:00:00
+830,ENC-9830,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-03-10 00:00:00
+831,ENC-9831,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-05-13 00:00:00
+832,ENC-9832,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-04-30 00:00:00
+833,ENC-9833,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-02-26 00:00:00
+834,ENC-9834,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-05-10 00:00:00
+835,ENC-9835,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-07-03 00:00:00
+836,ENC-9836,Abdominal Ultrasound,Radiology,480.0,2025-11-01 00:00:00
+837,ENC-9837,Holter Monitor 24-hr,Monitoring,350.0,2026-05-04 00:00:00
+838,ENC-9838,Pulmonary Function Testing,Diagnostic,420.0,2025-07-09 00:00:00
+839,ENC-9839,Spine Fluoroscopic Injection,Interventional,1400.0,2025-07-12 00:00:00
+840,ENC-9840,Abdominal Ultrasound,Radiology,480.0,2025-10-18 00:00:00
+841,ENC-9841,Digital Bone Radiography,Radiology,280.0,2025-08-28 00:00:00
+842,ENC-9842,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-01-03 00:00:00
+843,ENC-9843,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-05-01 00:00:00
+844,ENC-9844,Spine Fluoroscopic Injection,Interventional,1400.0,2025-07-01 00:00:00
+845,ENC-9845,Abdominal Ultrasound,Radiology,480.0,2025-04-24 00:00:00
+846,ENC-9846,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-10-10 00:00:00
+847,ENC-9847,Pulmonary Function Testing,Diagnostic,420.0,2025-05-29 00:00:00
+848,ENC-9848,Bone Marrow Biopsy,Pathology,1950.0,2026-03-06 00:00:00
+849,ENC-9849,Bone Marrow Biopsy,Pathology,1950.0,2025-07-20 00:00:00
+850,ENC-9850,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-10-04 00:00:00
+851,ENC-9851,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-10-24 00:00:00
+852,ENC-9852,Digital Bone Radiography,Radiology,280.0,2025-04-06 00:00:00
+853,ENC-9853,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-06-23 00:00:00
+854,ENC-9854,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-06-18 00:00:00
+855,ENC-9855,Brain MRI with Contrast,Radiology,2100.0,2025-07-26 00:00:00
+856,ENC-9856,Electroencephalogram (EEG),Diagnostic,780.0,2025-11-03 00:00:00
+857,ENC-9857,Bronchoscopy with Wash,Endoscopic,1850.0,2026-02-01 00:00:00
+858,ENC-9858,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-08-09 00:00:00
+859,ENC-9859,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-01-20 00:00:00
+860,ENC-9860,Pulmonary Function Testing,Diagnostic,420.0,2025-06-03 00:00:00
+861,ENC-9861,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-06-20 00:00:00
+862,ENC-9862,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-06-18 00:00:00
+863,ENC-9863,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-04-11 00:00:00
+864,ENC-9864,Abdominal Ultrasound,Radiology,480.0,2025-05-08 00:00:00
+865,ENC-9865,Bone Marrow Biopsy,Pathology,1950.0,2025-10-23 00:00:00
+866,ENC-9866,Total Knee Arthroplasty,Surgical,7800.0,2025-11-03 00:00:00
+867,ENC-9867,Bone Marrow Biopsy,Pathology,1950.0,2025-08-22 00:00:00
+868,ENC-9868,Digital Bone Radiography,Radiology,280.0,2025-11-06 00:00:00
+869,ENC-9869,Pulmonary Function Testing,Diagnostic,420.0,2025-05-09 00:00:00
+870,ENC-9870,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-09-22 00:00:00
+871,ENC-9871,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-02-14 00:00:00
+872,ENC-9872,Spine Fluoroscopic Injection,Interventional,1400.0,2026-04-27 00:00:00
+873,ENC-9873,Bone Marrow Biopsy,Pathology,1950.0,2025-06-10 00:00:00
+874,ENC-9874,Holter Monitor 24-hr,Monitoring,350.0,2025-08-29 00:00:00
+875,ENC-9875,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-05-18 00:00:00
+876,ENC-9876,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-09-21 00:00:00
+877,ENC-9877,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-01-09 00:00:00
+878,ENC-9878,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-02-05 00:00:00
+879,ENC-9879,Echocardiogram 2D,Diagnostic,650.0,2025-03-21 00:00:00
+880,ENC-9880,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-01-22 00:00:00
+881,ENC-9881,Electroencephalogram (EEG),Diagnostic,780.0,2025-12-21 00:00:00
+882,ENC-9882,Brain MRI with Contrast,Radiology,2100.0,2025-01-28 00:00:00
+883,ENC-9883,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-10-29 00:00:00
+884,ENC-9884,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-12-19 00:00:00
+885,ENC-9885,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-01-28 00:00:00
+886,ENC-9886,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-02-21 00:00:00
+887,ENC-9887,Spine Fluoroscopic Injection,Interventional,1400.0,2025-03-09 00:00:00
+888,ENC-9888,Holter Monitor 24-hr,Monitoring,350.0,2025-05-20 00:00:00
+889,ENC-9889,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-08-15 00:00:00
+890,ENC-9890,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-03-07 00:00:00
+891,ENC-9891,Digital Bone Radiography,Radiology,280.0,2026-06-29 00:00:00
+892,ENC-9892,Digital Bone Radiography,Radiology,280.0,2025-04-21 00:00:00
+893,ENC-9893,Brain MRI with Contrast,Radiology,2100.0,2025-06-18 00:00:00
+894,ENC-9894,Spine Fluoroscopic Injection,Interventional,1400.0,2026-01-06 00:00:00
+895,ENC-9895,Bone Marrow Biopsy,Pathology,1950.0,2026-03-21 00:00:00
+896,ENC-9896,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-01-27 00:00:00
+897,ENC-9897,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-11-18 00:00:00
+898,ENC-9898,Holter Monitor 24-hr,Monitoring,350.0,2026-03-06 00:00:00
+899,ENC-9899,Total Knee Arthroplasty,Surgical,7800.0,2026-02-01 00:00:00
+900,ENC-9900,Abdominal Ultrasound,Radiology,480.0,2026-05-11 00:00:00
+901,ENC-9901,Total Knee Arthroplasty,Surgical,7800.0,2025-02-21 00:00:00
+902,ENC-9902,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-05-14 00:00:00
+903,ENC-9903,Bronchoscopy with Wash,Endoscopic,1850.0,2025-02-18 00:00:00
+904,ENC-9904,Electroencephalogram (EEG),Diagnostic,780.0,2025-04-14 00:00:00
+905,ENC-9905,Holter Monitor 24-hr,Monitoring,350.0,2025-07-30 00:00:00
+906,ENC-9906,Total Knee Arthroplasty,Surgical,7800.0,2026-03-09 00:00:00
+907,ENC-9907,Pulmonary Function Testing,Diagnostic,420.0,2025-09-06 00:00:00
+908,ENC-9908,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-05-27 00:00:00
+909,ENC-9909,Brain MRI with Contrast,Radiology,2100.0,2026-09-24 00:00:00
+910,ENC-9910,Bone Marrow Biopsy,Pathology,1950.0,2025-07-01 00:00:00
+911,ENC-9911,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-10-13 00:00:00
+912,ENC-9912,Pulmonary Function Testing,Diagnostic,420.0,2025-05-28 00:00:00
+913,ENC-9913,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-12-10 00:00:00
+914,ENC-9914,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-02-12 00:00:00
+915,ENC-9915,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-03-20 00:00:00
+916,ENC-9916,Spine Fluoroscopic Injection,Interventional,1400.0,2025-06-04 00:00:00
+917,ENC-9917,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-09-03 00:00:00
+918,ENC-9918,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-07-20 00:00:00
+919,ENC-9919,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-01-05 00:00:00
+920,ENC-9920,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-03-30 00:00:00
+921,ENC-9921,Electroencephalogram (EEG),Diagnostic,780.0,2025-09-10 00:00:00
+922,ENC-9922,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-12-02 00:00:00
+923,ENC-9923,Digital Bone Radiography,Radiology,280.0,2026-01-29 00:00:00
+924,ENC-9924,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-11-25 00:00:00
+925,ENC-9925,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-04-26 00:00:00
+926,ENC-9926,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-07-31 00:00:00
+927,ENC-9927,Spine Fluoroscopic Injection,Interventional,1400.0,2025-11-19 00:00:00
+928,ENC-9928,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-11-23 00:00:00
+929,ENC-9929,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-03-20 00:00:00
+930,ENC-9930,Abdominal Ultrasound,Radiology,480.0,2026-03-02 00:00:00
+931,ENC-9931,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-06-02 00:00:00
+932,ENC-9932,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-06-20 00:00:00
+933,ENC-9933,Holter Monitor 24-hr,Monitoring,350.0,2025-03-12 00:00:00
+934,ENC-9934,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2025-05-12 00:00:00
+935,ENC-9935,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-04-05 00:00:00
+936,ENC-9936,Total Knee Arthroplasty,Surgical,7800.0,2025-03-13 00:00:00
+937,ENC-9937,Pulmonary Function Testing,Diagnostic,420.0,2025-11-09 00:00:00
+938,ENC-9938,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-03-03 00:00:00
+939,ENC-9939,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-01-07 00:00:00
+940,ENC-9940,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-09-04 00:00:00
+941,ENC-9941,Bone Marrow Biopsy,Pathology,1950.0,2025-11-28 00:00:00
+942,ENC-9942,Abdominal Ultrasound,Radiology,480.0,2025-12-13 00:00:00
+943,ENC-9943,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-02-01 00:00:00
+944,ENC-9944,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-09-17 00:00:00
+945,ENC-9945,Bronchoscopy with Wash,Endoscopic,1850.0,2026-04-25 00:00:00
+946,ENC-9946,Brain MRI with Contrast,Radiology,2100.0,2026-08-01 00:00:00
+947,ENC-9947,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-04-22 00:00:00
+948,ENC-9948,Total Knee Arthroplasty,Surgical,7800.0,2026-08-01 00:00:00
+949,ENC-9949,Electroencephalogram (EEG),Diagnostic,780.0,2025-04-06 00:00:00
+950,ENC-9950,Bronchoscopy with Wash,Endoscopic,1850.0,2026-04-27 00:00:00
+951,ENC-9951,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-05-01 00:00:00
+952,ENC-9952,Holter Monitor 24-hr,Monitoring,350.0,2025-07-05 00:00:00
+953,ENC-9953,Spine Fluoroscopic Injection,Interventional,1400.0,2025-08-08 00:00:00
+954,ENC-9954,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-09-16 00:00:00
+955,ENC-9955,Electroencephalogram (EEG),Diagnostic,780.0,2025-11-27 00:00:00
+956,ENC-9956,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-08-08 00:00:00
+957,ENC-9957,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-12-06 00:00:00
+958,ENC-9958,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-02-25 00:00:00
+959,ENC-9959,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-03-18 00:00:00
+960,ENC-9960,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-07-17 00:00:00
+961,ENC-9961,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-08-01 00:00:00
+962,ENC-9962,Pulmonary Function Testing,Diagnostic,420.0,2025-03-02 00:00:00
+963,ENC-9963,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-01-11 00:00:00
+964,ENC-9964,Echocardiogram 2D,Diagnostic,650.0,2025-09-10 00:00:00
+965,ENC-9965,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-01-26 00:00:00
+966,ENC-9966,Spine Fluoroscopic Injection,Interventional,1400.0,2025-02-18 00:00:00
+967,ENC-9967,Bronchoscopy with Wash,Endoscopic,1850.0,2025-03-17 00:00:00
+968,ENC-9968,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-06-05 00:00:00
+969,ENC-9969,Total Knee Arthroplasty,Surgical,7800.0,2025-09-26 00:00:00
+970,ENC-9970,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-05-29 00:00:00
+971,ENC-9971,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-03-01 00:00:00
+972,ENC-9972,Digital Bone Radiography,Radiology,280.0,2026-05-23 00:00:00
+973,ENC-9973,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-04-02 00:00:00
+974,ENC-9974,Bronchoscopy with Wash,Endoscopic,1850.0,2026-05-08 00:00:00
+975,ENC-9975,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-06-20 00:00:00
+976,ENC-9976,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-09-24 00:00:00
+977,ENC-9977,Holter Monitor 24-hr,Monitoring,350.0,2025-12-06 00:00:00
+978,ENC-9978,Abdominal Ultrasound,Radiology,480.0,2026-03-19 00:00:00
+979,ENC-9979,Brain MRI with Contrast,Radiology,2100.0,2026-03-10 00:00:00
+980,ENC-9980,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-04-01 00:00:00
+981,ENC-9981,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2026-04-17 00:00:00
+982,ENC-9982,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-11-16 00:00:00
+983,ENC-9983,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-12-10 00:00:00
+984,ENC-9984,Bronchoscopy with Wash,Endoscopic,1850.0,2026-01-06 00:00:00
+985,ENC-9985,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-06-17 00:00:00
+986,ENC-9986,Echocardiogram 2D,Diagnostic,650.0,2025-08-17 00:00:00
+987,ENC-9987,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-11-06 00:00:00
+988,ENC-9988,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-03-06 00:00:00
+989,ENC-9989,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-01-03 00:00:00
+990,ENC-9990,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-09-29 00:00:00
+991,ENC-9991,Electroencephalogram (EEG),Diagnostic,780.0,2025-05-08 00:00:00
+992,ENC-9992,Pulmonary Function Testing,Diagnostic,420.0,2026-05-01 00:00:00
+993,ENC-9993,Esophagogastroduodenoscopy,Endoscopic,1450.0,2026-01-24 00:00:00
+994,ENC-9994,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2026-02-04 00:00:00
+995,ENC-9995,Electroencephalogram (EEG),Diagnostic,780.0,2026-03-04 00:00:00
+996,ENC-9996,Spine Fluoroscopic Injection,Interventional,1400.0,2025-11-23 00:00:00
+997,ENC-9997,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-07-08 00:00:00
+998,ENC-9998,Electroencephalogram (EEG),Diagnostic,780.0,2025-10-04 00:00:00
+999,ENC-9999,Pulmonary Function Testing,Diagnostic,420.0,2025-11-20 00:00:00
+1000,ENC-10000,Bronchoscopy with Wash,Endoscopic,1850.0,2025-01-07 00:00:00
+1001,ENC-10001,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-05-26 00:00:00
+1002,ENC-10002,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-08-23 00:00:00
+1003,ENC-10003,Electroencephalogram (EEG),Diagnostic,780.0,2025-11-27 00:00:00
+1004,ENC-10004,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-12-20 00:00:00
+1005,ENC-10005,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-04-04 00:00:00
+1006,ENC-10006,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-06-14 00:00:00
+1007,ENC-10007,Digital Bone Radiography,Radiology,280.0,2025-09-19 00:00:00
+1008,ENC-10008,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-12-05 00:00:00
+1009,ENC-10009,Diagnostic Colonoscopy,Endoscopic,1600.0,2025-12-20 00:00:00
+1010,ENC-10010,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-02-15 00:00:00
+1011,ENC-10011,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-05-30 00:00:00
+1012,ENC-10012,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-06-17 00:00:00
+1013,ENC-10013,Brain MRI with Contrast,Radiology,2100.0,2026-09-09 00:00:00
+1014,ENC-10014,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-07-04 00:00:00
+1015,ENC-10015,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-09-27 00:00:00
+1016,ENC-10016,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-10-24 00:00:00
+1017,ENC-10017,Bronchoscopy with Wash,Endoscopic,1850.0,2025-11-20 00:00:00
+1018,ENC-10018,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-04-25 00:00:00
+1019,ENC-10019,Bone Marrow Biopsy,Pathology,1950.0,2026-06-08 00:00:00
+1020,ENC-10020,Bone Marrow Biopsy,Pathology,1950.0,2025-01-16 00:00:00
+1021,ENC-10021,Diagnostic Coronary Angiogram,Interventional,3200.0,2026-04-16 00:00:00
+1022,ENC-10022,Bronchoscopy with Wash,Endoscopic,1850.0,2026-04-10 00:00:00
+1023,ENC-10023,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2026-01-05 00:00:00
+1024,ENC-10024,Pulmonary Function Testing,Diagnostic,420.0,2026-03-23 00:00:00
+1025,ENC-10025,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-03-18 00:00:00
+1026,ENC-10026,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-02-16 00:00:00
+1027,ENC-10027,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-03-14 00:00:00
+1028,ENC-10028,Bone Marrow Biopsy,Pathology,1950.0,2025-04-11 00:00:00
+1029,ENC-10029,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-01-18 00:00:00
+1030,ENC-10030,Bronchoscopy with Wash,Endoscopic,1850.0,2026-05-29 00:00:00
+1031,ENC-10031,Bone Marrow Biopsy,Pathology,1950.0,2025-03-14 00:00:00
+1032,ENC-10032,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2025-07-02 00:00:00
+1033,ENC-10033,Spine Fluoroscopic Injection,Interventional,1400.0,2025-05-25 00:00:00
+1034,ENC-10034,Digital Bone Radiography,Radiology,280.0,2025-08-28 00:00:00
+1035,ENC-10035,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-03-16 00:00:00
+1036,ENC-10036,Thyroid Fine Needle Aspiration,Biopsy,1100.0,2025-08-22 00:00:00
+1037,ENC-10037,Rapid Fluid Resuscitation,Therapeutic,600.0,2026-02-07 00:00:00
+1038,ENC-10038,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2026-04-29 00:00:00
+1039,ENC-10039,Non-invasive BiPAP Setup,Respiratory Support,950.0,2026-02-02 00:00:00
+1040,ENC-10040,Esophagogastroduodenoscopy,Endoscopic,1450.0,2025-08-28 00:00:00
+1041,ENC-10041,Systemic Chemotherapy Infusion,Therapeutic,4500.0,2025-11-11 00:00:00
+1042,ENC-10042,Bone Marrow Biopsy,Pathology,1950.0,2025-09-23 00:00:00
+1043,ENC-10043,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-12-23 00:00:00
+1044,ENC-10044,Pulmonary Function Testing,Diagnostic,420.0,2025-01-13 00:00:00
+1045,ENC-10045,Pulmonary Function Testing,Diagnostic,420.0,2025-03-15 00:00:00
+1046,ENC-10046,CT Chest-Abdomen-Pelvis,Radiology,2200.0,2025-07-02 00:00:00
+1047,ENC-10047,IV Insulin Sliding Scale Stabilization,Therapeutic,850.0,2026-02-12 00:00:00
+1048,ENC-10048,Brain MRI with Contrast,Radiology,2100.0,2026-05-31 00:00:00
+1049,ENC-10049,Bone Marrow Biopsy,Pathology,1950.0,2025-06-20 00:00:00
+1050,ENC-10050,Brain MRI with Contrast,Radiology,2100.0,2025-07-11 00:00:00
+1051,ENC-10051,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-08-24 00:00:00
+1052,ENC-10052,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-05-20 00:00:00
+1053,ENC-10053,Abdominal Ultrasound,Radiology,480.0,2025-06-24 00:00:00
+1054,ENC-10054,Bone Marrow Biopsy,Pathology,1950.0,2025-07-14 00:00:00
+1055,ENC-10055,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-12-19 00:00:00
+1056,ENC-10056,Rapid Fluid Resuscitation,Therapeutic,600.0,2025-05-08 00:00:00
+1057,ENC-10057,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-11-17 00:00:00
+1058,ENC-10058,Pulmonary Function Testing,Diagnostic,420.0,2026-02-19 00:00:00
+1059,ENC-10059,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-05-25 00:00:00
+1060,ENC-10060,Brain MRI with Contrast,Radiology,2100.0,2025-08-23 00:00:00
+1061,ENC-10061,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-10-14 00:00:00
+1062,ENC-10062,Electroencephalogram (EEG),Diagnostic,780.0,2025-02-21 00:00:00
+1063,ENC-10063,Bronchoscopy with Wash,Endoscopic,1850.0,2025-03-07 00:00:00
+1064,ENC-10064,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-03-21 00:00:00
+1065,ENC-10065,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-03-17 00:00:00
+1066,ENC-10066,Pulmonary Function Testing,Diagnostic,420.0,2025-06-16 00:00:00
+1067,ENC-10067,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-08-27 00:00:00
+1068,ENC-10068,Continuous Glucose Monitor Profiling,Diagnostic,400.0,2025-07-13 00:00:00
+1069,ENC-10069,Brain MRI with Contrast,Radiology,2100.0,2025-09-14 00:00:00
+1070,ENC-10070,Bronchoscopy with Wash,Endoscopic,1850.0,2025-06-04 00:00:00
+1071,ENC-10071,Brain MRI with Contrast,Radiology,2100.0,2026-02-03 00:00:00
+1072,ENC-10072,Non-invasive BiPAP Setup,Respiratory Support,950.0,2025-09-04 00:00:00
+1073,ENC-10073,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-10-03 00:00:00
+1074,ENC-10074,Diagnostic Colonoscopy,Endoscopic,1600.0,2026-01-09 00:00:00
+1075,ENC-10075,Carotid Doppler Ultrasound,Diagnostic,520.0,2026-03-27 00:00:00
+1076,ENC-10076,Electroencephalogram (EEG),Diagnostic,780.0,2025-12-16 00:00:00
+1077,ENC-10077,Total Knee Arthroplasty,Surgical,7800.0,2026-01-07 00:00:00
+1078,ENC-10078,Carotid Doppler Ultrasound,Diagnostic,520.0,2025-09-11 00:00:00
+1079,ENC-10079,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-01-19 00:00:00
+1080,ENC-10080,Bone Marrow Biopsy,Pathology,1950.0,2025-10-15 00:00:00
+1081,ENC-10081,Bronchoscopy with Wash,Endoscopic,1850.0,2026-05-26 00:00:00
+1082,ENC-10082,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-07-06 00:00:00
+1083,ENC-10083,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2026-01-01 00:00:00
+1084,ENC-10084,Comprehensive Metabolic Panel & Cultures,Laboratory,320.0,2026-02-24 00:00:00
+1085,ENC-10085,Diagnostic Coronary Angiogram,Interventional,3200.0,2025-07-08 00:00:00
+1086,ENC-10086,Broad Spectrum IV Antibiotic Regimen,Therapeutic,1200.0,2025-10-18 00:00:00

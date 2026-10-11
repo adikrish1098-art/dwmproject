@@ -1,0 +1,9 @@
+id,name,description,is_active
+DEP-CAR,Cardiology,"Heart, vascular, and cardiac circulation diseases",True
+DEP-PUL,Pulmonology,"Respiratory system, lungs, and acute bronchial care",True
+DEP-NEU,Neurology,"Brain, central nervous system, and neurovascular disorders",True
+DEP-ORT,Orthopedics,"Musculoskeletal system, joint reconstructions, and spine",True
+DEP-GAS,Gastroenterology,"Digestive tract, liver, and biliary system disorders",True
+DEP-ONC,Oncology,"Tumor diagnosis, systemic chemotherapy, and monitoring",True
+DEP-END,Endocrinology,"Diabetes management, thyroid, and endocrine metabolic disorders",True
+DEP-GEN,General Medicine,Acute adult illnesses and primary inpatient triage,True
